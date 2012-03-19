@@ -23,11 +23,11 @@ multiple tasks at the same time, so I had to leave it anyway.
 
 These are some screenshtos of what this game almost became:
 
-.. image:: ./ss01.jpg
+http://github.com/rafaelbrandao/PkPAdv/raw/master/ss01.jpg
 
-.. image:: ./ss02.jpg
+http://github.com/rafaelbrandao/PkPAdv/raw/master/ss02.jpg
 
-.. image:: ./ss03.png
+http://github.com/rafaelbrandao/PkPAdv/raw/master/ss03.png
 
 What's next?
 ------------
