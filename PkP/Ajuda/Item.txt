@@ -1,0 +1,3 @@
+$cc $+ $arrange(.PC,160,%spc) $ct $+ - Acessa seu computador que armazena pokémon em seu interior;
+$cc $+ $arrange(.Pokedex (<Pokémon>),160,%spc) $ct $+ - Estatísticas, golpes e tudo o que um treinador precisa saber sobre seu pokémon;
+$cc $+ $arrange(.Item,160,%spc) $ct $+ - Referente às diversas formas de utilização e informação de itens;

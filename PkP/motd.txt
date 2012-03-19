@@ -1,0 +1,76 @@
+1________________________________________________________________
+1Seja bem vindo(a) ao
+$arrange(,160,4) 00,00                      08,08      00,00                  
+$arrange(,160,4) 00,00                  08,08    01,01      08,08      00,00            
+$arrange(,160,4) 00,00                08,08  01,01    11,11      01,01      08,08    00,00        
+$arrange(,160,4) 00,00              08,08  01,01  11,11    01,01      11,11      01,01    08,08  00,00      
+$arrange(,160,4) 00,00            08,08  01,01  11,11  01,01    08,08      01,01    11,11      01,01  08,08  00,00    
+$arrange(,160,4) 00,00            08,08  01,01  11,11  01,01  08,08    00,00    08,08  01,01  10,10  11,11    10,10  01,01  08,08  00,00  
+$arrange(,160,4) 00,00              08,08  01,01  11,11  01,01    08,08    00,00  08,08  01,01  10,10      01,01  08,08  00,00  
+$arrange(,160,4) 00,00                08,08  01,01  11,11    01,01    08,08  00,00  08,08  01,01      08,08  00,00    
+$arrange(,160,4) 00,00                  08,08  01,01    11,11    01,01  08,08  00,00  08,08      00,00      
+$arrange(,160,4) 00,00  01,01      00,00            08,08    01,01    10,10  01,01  08,08  00,00            
+$arrange(,160,4) 00,00  01,01  11,11    01,01            00,00    08,08  01,01  10,10  01,01  08,08  00,00            
+$arrange(,160,4) 00,00  01,01  11,11  01,01  11,11    01,01  11,11  10,10  01,01        10,10  01,01  08,08  00,00              
+$arrange(,160,4) 00,00  01,01  11,11          10,10    01,01  10,10  11,11    01,01  08,08  00,00                
+$arrange(,160,4) 01,01  00,00  10,10  11,11      10,10      01,01  11,11      10,10  01,01  00,00                
+$arrange(,160,4) 01,01  12,12  10,10  11,11    10,10  00,00    10,10  01,01  11,11    10,10    01,01    00,00              
+$arrange(,160,4) 01,01    10,10  11,11    10,10  12,12  00,00  10,10  01,01      10,10    01,01  10,10  01,01  00,00            
+$arrange(,160,4) 01,01  11,11        10,10  01,01  00,00  10,10  01,01  10,10    01,01      10,10    01,01  00,00          
+$arrange(,160,4) 00,00  01,01  11,11      10,10      01,01        00,00      01,01      00,00          
+$arrange(,160,4) 00,00  01,01  10,10      01,01      00,00                              
+$arrange(,160,4) 00,00    01,01      00,00      01,01      14,14  00,00    15,15      00,00            
+$arrange(,160,4) 00,00                01,01  00,00  01,01  14,14  00,00  14,14  15,15  00,00  15,15  00,00            
+$arrange(,160,4) 00,00                01,01      14,14    00,00  15,15      00,00            
+$arrange(,160,4) 00,00                01,01  00,00    14,14  00,00  14,14  15,15  00,00                
+01,00 $+ $arrange(,160,22) $+ A D V A N C E D
+
+0.1 Simulador de batalhas pokémon das versões 4Ruby1/12Sapphire1 para GBA.
+0.1 Novos ataques, novos pokémon e milhares de novas estratégias!
+1________________________________________________________________
+
+1Regras:
+0 0 2* 1Respeite os moderadores e os demais usuários;
+0 0 2* 1Não faça flood/propaganda de canal/website;
+0 0 2* 1Não pergunte sobre os comandos, ao invés, digite 12.Ajuda1.
+0 0 2* 1Não use sistemas de autobattle, nem a menor aliás possível;
+0 0 2* 1Não use sistema de macro ou timer para manter-se conectado ao bot;
+0 0 2* 1Email do cadastro precisa obrigatoriamente ser válido;
+0 0 2* 1Não peça pokémon/dinheiro/itens para o responsável pelo bot;
+0 0 2* 1Não reclame a ausência do bot, afinal este serviço é GRATUITO;
+0 0 2* 1Imediatamente após flagrar um bug, reporte a um Moderador;
+0 0 2* 1Dependendo do bug, você poderá ser recompensado;
+0 0 2* 1Não é permitido a utilização de mais um cadastro;
+0 0 2* 1Não é permitido mais de um usuário usar o mesmo cadastro;
+0 0 2* 1Não tente se beneficiar com a utilização de bugs;
+
+1Qualquer extravio relacionado às regras resultará em ban
+0              1ou na perda do cadastro.
+
+1Níveis de usuário:
+0 0 1<Usuário> Eu não estou entendendo nada! 1(14Iniciante1)
+0 0 1<14Usuário1> Precisa de ajuda em algum aspecto? 1(14Experiente1)
+0 0 1<07Usuário1> É melhor deixá-lo com o comando '12.Ajuda1'... 1(14Avançado1)
+0 0 1<05Usuário1> Argh, outro usuário confuso. Estou cheio disso! 1(14Mestre1)
+0 0 1<02Usuário1> Digite '12.Ajuda1' para ver os tópicos de ajuda, e... 1(14Moderador1)
+
+1Escritas:
+0 0 1<Usuário> Onde eu pego meu pokémon?! (interpretado como 4Chat1)
+0 0 1<Usuário> 4@1Amigo Ei, o laboratório está no '12.Cidade1'? (interpretado como 4Private1, para usuário "Amigo")
+0 0 1<Usuário> 12.Cidade1 (interpretado como 4Comando1, não use cores ou digite 12/say1 antes)
+0 0 0 0 0 0 1Coloque um "4@1" (arroba) antes do nick para enviar mensagem privada.
+0 0 0 0 0 0 1Coloque um "4.1" (ponto) antes da palavra para enviar um comando.
+
+1Importante:
+0 0 1Não dê sua senha a ninguém, é imprescindível também que seu nick esteja registrado no NickServ, para evitar roubo de nick/cadastro. Para informações, digite 12/NickServ Help1;
+
+1Novidades:
+0 0 1Quando 1225 1usuários estiverem conectados no bot simultaneamente, digite 12.Premium <nick do 25º usuário> 1e sua conta passará a ser premiada1;
+0 0 12Mais um desafio espera todos os treinadores, ".rental" para mais informações.
+0 0 4O bot encontra-se em três canais: além do #PkP, agora também no #Project e #Myutsu
+0 0 7Está começando agora? http://canal.pokeplanet.com.br/Sistema.htm
+0 0 1Rental reformulado, será que você é capaz de chegar ao final?
+0 0 1Novo servidor: #PkP @ irc.rizon.net
+
+1Divirta-se com o PkP!
+

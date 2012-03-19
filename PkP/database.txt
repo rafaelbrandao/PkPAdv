@@ -1,0 +1,418 @@
+Bulbasaur: 001¬45 49 49 45 65 65¬0 0 0 0 1 0¬Grass Poison¬Med-Slow¬31¬Overgrow¬64¬45¬7¬69¬Monster Plant¬5120¬Bulbasaur
+Ivysaur: 002¬60 62 63 60 80 80¬0 0 0 0 1 1¬Grass Poison¬Med-Slow¬31¬Overgrow¬141¬45¬10¬130¬Monster Plant¬5120¬Bulbasaur
+Venusaur: 003¬80 82 83 80 100 100¬0 0 0 0 2 1¬Grass Poison¬Med-Slow¬31¬Overgrow¬208¬45¬20¬1000¬Monster Plant¬5120¬Bulbasaur
+Charmander: 004¬39 52 43 65 60 50¬0 0 0 1 0 0¬Fire¬Med-Slow¬31¬Blaze¬65¬45¬6¬85¬Monster Dragon¬5120¬Charmander
+Charmeleon: 005¬58 64 58 80 80 65¬0 0 0 1 1 0¬Fire¬Med-Slow¬31¬Blaze¬142¬45¬11¬190¬Monster Dragon¬5120¬Charmander
+Charizard: 006¬78 84 78 100 109 85¬0 0 0 0 3 0¬Fire Flying¬Med-Slow¬31¬Blaze¬209¬45¬17¬905¬Monster Dragon¬5120¬Charmander
+Squirtle: 007¬44 48 65 43 50 64¬0 0 1 0 0 0¬Water¬Med-Slow¬31¬Torrent¬66¬45¬5¬90¬Monster Water1¬5120¬Squirtle
+Wartortle: 008¬59 63 80 58 65 80¬0 0 1 0 0 1¬Water¬Med-Slow¬31¬Torrent¬143¬45¬10¬225¬Monster Water1¬5120¬Squirtle
+Blastoise: 009¬79 83 100 78 85 105¬0 0 0 0 0 3¬Water¬Med-Slow¬31¬Torrent¬210¬45¬16¬855¬Monster Water1¬5120¬Squirtle
+Caterpie: 010¬45 30 35 45 20 20¬1 0 0 0 0 0¬Bug¬Med-Fast¬127¬Shield Dust¬53¬255¬3¬29¬Bug¬3840¬Caterpie
+Metapod: 011¬50 20 55 30 25 25¬0 0 2 0 0 0¬Bug¬Med-Fast¬127¬Shed Skin¬72¬120¬7¬99¬Bug¬3840¬Caterpie
+Butterfree: 012¬60 45 50 70 80 80¬0 0 0 0 2 1¬Bug Flying¬Med-Fast¬127¬Compoundeyes¬160¬45¬11¬320¬Bug Flying¬3840¬Caterpie
+Weedle: 013¬40 35 30 50 20 20¬0 0 0 1 0 0¬Bug Poison¬Med-Fast¬127¬Shield Dust¬52¬255¬3¬32¬Bug¬3840¬Weedle
+Kakuna: 014¬45 25 50 35 25 25¬0 0 2 0 0 0¬Bug Poison¬Med-Fast¬127¬Shed Skin¬71¬120¬6¬100¬Bug¬3840¬Weedle
+Beedrill: 015¬65 80 40 75 45 80¬0 2 0 0 0 1¬Bug Poison¬Med-Fast¬127¬Swarm¬159¬45¬10¬295¬Bug¬3840¬Weedle
+Pidgey: 016¬40 45 40 56 35 35¬0 0 0 1 0 0¬Normal Flying¬Med-Slow¬127¬Keen Eye¬55¬255¬3¬18¬Flying¬3840¬Pidgey
+Pidgeotto: 017¬63 60 55 71 50 50¬0 0 0 2 0 0¬Normal Flying¬Med-Slow¬127¬Keen Eye¬113¬120¬11¬300¬Flying¬3840¬Pidgey
+Pidgeot: 018¬83 80 75 91 70 70¬0 0 0 3 0 0¬Normal Flying¬Med-Slow¬127¬Keen Eye¬172¬45¬15¬395¬Flying¬3840¬Pidgey
+Rattata: 019¬30 56 35 72 25 35¬0 0 0 1 0 0¬Normal¬Med-Fast¬127¬Run Away, Guts¬57¬255¬3¬35¬Ground¬3840¬Rattata
+Raticate: 020¬55 81 60 97 50 70¬0 0 0 2 0 0¬Normal¬Med-Fast¬127¬Run Away, Guts¬116¬90¬7¬185¬Ground¬3840¬Rattata
+Spearow: 021¬40 60 30 70 31 31¬0 0 0 1 0 0¬Normal Flying¬Med-Fast¬127¬Keen Eye¬58¬255¬3¬20¬Flying¬3840¬Spearow
+Fearow: 022¬65 90 65 100 61 61¬0 0 0 2 0 0¬Normal Flying¬Med-Fast¬127¬Keen Eye¬162¬90¬12¬380¬Flying¬3840¬Spearow
+Ekans: 023¬35 60 44 55 40 54¬0 1 0 0 0 0¬Poison¬Med-Fast¬127¬Intimidate, Shed Skin¬62¬255¬20¬69¬Ground Dragon¬5120¬Ekans
+Arbok: 024¬60 85 69 80 65 79¬0 2 0 0 0 0¬Poison¬Med-Fast¬127¬Intimidate, Shed Skin¬147¬90¬35¬650¬Ground Dragon¬5120¬Ekans
+Pikachu: 025¬35 55 30 90 50 40¬0 0 0 2 0 0¬Electric¬Med-Fast¬127¬Static¬82¬190¬4¬60¬Ground Fairy¬2560¬Pichu
+Raichu: 026¬60 90 55 100 90 80¬0 0 0 3 0 0¬Electric¬Med-Fast¬127¬Static¬122¬75¬8¬300¬Ground Fairy¬2560¬Pichu
+Sandshrew: 027¬50 75 85 40 20 30¬0 0 1 0 0 0¬Ground¬Med-Fast¬127¬Sand Veil¬93¬255¬6¬120¬Ground¬5120¬Sandshrew
+Sandslash: 028¬75 100 110 65 45 55¬0 0 2 0 0 0¬Ground¬Med-Fast¬127¬Sand Veil¬163¬90¬10¬295¬Ground¬5120¬Sandshrew
+Nidoranf: 029¬55 47 52 41 40 40¬1 0 0 0 0 0¬Poison¬Med-Slow¬255¬Poison Point¬59¬235¬4¬70¬Ground Monster¬5120¬Nidoran
+Nidorina: 030¬70 62 67 56 55 55¬2 0 0 0 0 0¬Poison¬Med-Slow¬255¬Poison Point¬117¬120¬8¬200¬Ground Monster¬5120¬Nidoran
+Nidoqueen: 031¬90 82 87 76 75 85¬3 0 0 0 0 0¬Ground Poison¬Med-Slow¬255¬Poison Point¬194¬45¬13¬600¬Ground Monster¬5120¬Nidoran
+Nidoranm: 032¬46 57 40 50 40 40¬0 1 0 0 0 0¬Poison¬Med-Slow¬0¬Poison Point¬60¬235¬5¬90¬Ground Monster¬5120¬Nidoran
+Nidorino: 033¬61 72 57 65 55 55¬0 2 0 0 0 0¬Poison¬Med-Slow¬0¬Poison Point¬118¬120¬9¬195¬Ground Monster¬5120¬Nidoran
+Nidoking: 034¬81 92 77 85 85 75¬0 3 0 0 0 0¬Ground Poison¬Med-Slow¬0¬Poison Point¬195¬45¬14¬620¬Ground Monster¬5120¬Nidoran
+Clefairy: 035¬70 45 48 35 60 65¬2 0 0 0 0 0¬Normal¬Fast¬191¬Cute Charm¬68¬150¬6¬75¬Fairy¬2560¬Cleffa
+Clefable: 036¬95 70 73 60 85 90¬3 0 0 0 0 0¬Normal¬Fast¬191¬Cute Charm¬129¬25¬13¬400¬Fairy¬2560¬Cleffa
+Vulpix: 037¬38 41 40 65 50 65¬0 0 0 1 0 0¬Fire¬Med-Fast¬191¬Flash Fire¬63¬190¬6¬99¬Ground¬5120¬Vulpix
+Ninetales: 038¬73 76 75 100 81 100¬0 0 0 1 0 1¬Fire¬Med-Fast¬191¬Flash Fire¬178¬75¬11¬199¬Ground¬5120¬Vulpix
+Jigglypuff: 039¬115 45 20 20 45 25¬2 0 0 0 0 0¬Normal¬Fast¬191¬Cute Charm¬76¬170¬5¬55¬Fairy¬2560¬Igglybuff
+Wigglytuff: 040¬140 70 45 45 75 50¬3 0 0 0 0 0¬Normal¬Fast¬191¬Cute Charm¬109¬50¬10¬120¬Fairy¬2560¬Igglybuff
+Zubat: 041¬40 45 35 55 30 40¬0 0 0 1 0 0¬Flying Poison¬Med-Fast¬127¬Inner Focus¬54¬255¬8¬75¬Flying¬3840¬Zubat
+Golbat: 042¬75 80 70 90 65 75¬0 0 0 2 0 0¬Flying Poison¬Med-Fast¬127¬Inner Focus¬171¬90¬16¬550¬Flying¬3840¬Zubat
+Oddish: 043¬45 50 55 30 75 65¬0 0 0 0 1 0¬Grass Poison¬Med-Slow¬127¬Chlorophyll¬78¬255¬5¬54¬Plant¬5120¬Oddish
+Gloom: 044¬60 65 70 40 85 75¬0 0 0 0 2 0¬Grass Poison¬Med-Slow¬127¬Chlorophyll¬132¬120¬8¬86¬Plant¬5120¬Oddish
+Vileplume: 045¬75 80 85 50 100 90¬0 0 0 0 3 0¬Grass Poison¬Med-Slow¬127¬Chlorophyll¬184¬45¬12¬186¬Plant¬5120¬Oddish
+Paras: 046¬35 70 55 25 45 55¬0 1 0 0 0 0¬Grass Bug¬Med-Fast¬127¬Effect Spore¬70¬190¬3¬54¬Bug Plant¬5120¬Paras
+Parasect: 047¬60 95 80 30 60 80¬0 2 1 0 0 0¬Grass Bug¬Med-Fast¬127¬Effect Spore¬128¬75¬10¬295¬Bug Plant¬5120¬Paras
+Venonat: 048¬60 55 50 45 40 55¬0 0 0 0 0 1¬Bug Poison¬Med-Fast¬127¬Compoundeyes¬75¬190¬10¬300¬Bug¬5120¬Venonat
+Venomoth: 049¬70 65 60 90 90 75¬0 0 0 1 1 0¬Bug Poison¬Med-Fast¬127¬Shield Dust¬138¬75¬15¬125¬Bug¬5120¬Venonat
+Diglett: 050¬10 55 25 95 35 45¬0 0 0 1 0 0¬Ground¬Med-Fast¬127¬Sand Veil, Arena Trap¬81¬255¬2¬8¬Ground¬5120¬Diglett
+Dugtrio: 051¬35 80 50 120 50 70¬0 0 0 2 0 0¬Ground¬Med-Fast¬127¬Sand Veil, Arena Trap¬153¬50¬7¬333¬Ground¬5120¬Diglett
+Meowth: 052¬40 45 35 90 40 40¬0 0 0 1 0 0¬Normal¬Med-Fast¬127¬Pickup¬69¬255¬4¬42¬Ground¬5120¬Meowth
+Persian: 053¬65 70 60 115 65 65¬0 0 0 2 0 0¬Normal¬Med-Fast¬127¬Limber¬148¬90¬10¬320¬Ground¬5120¬Meowth
+Psyduck: 054¬50 52 48 55 65 50¬0 0 0 0 1 0¬Water¬Med-Fast¬127¬Damp, Cloud Nine¬80¬190¬8¬196¬Ground Water1¬5120¬Psyduck
+Golduck: 055¬80 82 78 85 95 80¬0 0 0 0 2 0¬Water¬Med-Fast¬127¬Damp, Cloud Nine¬171¬75¬17¬766¬Ground Water1¬5120¬Psyduck
+Mankey: 056¬40 80 35 70 35 45¬0 1 0 0 0 0¬Fighting¬Med-Fast¬127¬Vital Spirit¬74¬190¬5¬280¬Ground¬5120¬Mankey
+Primeape: 057¬65 105 60 95 60 70¬0 2 0 0 0 0¬Fighting¬Med-Fast¬127¬Vital Spirit¬149¬75¬10¬320¬Ground¬5120¬Mankey
+Growlithe: 058¬55 70 45 60 70 50¬0 1 0 0 0 0¬Fire¬Slow¬127¬Intimidate, Flash Fire¬91¬190¬7¬190¬Ground¬5120¬Growlithe
+Arcanine: 059¬90 110 80 95 100 80¬0 2 0 0 0 0¬Fire¬Slow¬127¬Intimidate, Flash Fire¬213¬75¬19¬1550¬Ground¬5120¬Growlithe
+Poliwag: 060¬40 50 40 90 40 40¬0 0 0 1 0 0¬Water¬Med-Slow¬127¬Water Absorb, Damp¬77¬255¬6¬124¬Water1¬5120¬Poliwag
+Poliwhirl: 061¬65 65 65 90 50 50¬0 0 0 2 0 0¬Water¬Med-Slow¬127¬Water Absorb, Damp¬131¬120¬10¬200¬Water1¬5120¬Poliwag
+Poliwrath: 062¬90 85 95 70 70 90¬0 0 3 0 0 0¬Water Fighting¬Med-Slow¬127¬Water Absorb, Damp¬185¬45¬13¬540¬Water1¬5120¬Poliwag
+Abra: 063¬25 20 15 90 105 55¬0 0 0 0 1 0¬Psychic¬Med-Slow¬63¬Synchronize, Inner Focus¬73¬200¬9¬195¬Humanshape¬5120¬Abra
+Kadabra: 064¬40 35 30 105 120 70¬0 0 0 0 2 0¬Psychic¬Med-Slow¬63¬Synchronize, Inner Focus¬145¬100¬13¬565¬Humanshape¬5120¬Abra
+Alakazam: 065¬55 50 45 120 135 85¬0 0 0 0 2 0¬Psychic¬Med-Slow¬63¬Synchronize, Inner Focus¬186¬50¬15¬480¬Humanshape¬5120¬Abra
+Machop: 066¬70 80 50 35 35 35¬0 1 0 0 0 0¬Fighting¬Med-Slow¬63¬Guts¬88¬180¬8¬195¬Humanshape¬5120¬Machop
+Machoke: 067¬80 100 70 45 50 60¬0 2 0 0 0 0¬Fighting¬Med-Slow¬63¬Guts¬146¬90¬15¬705¬Humanshape¬5120¬Machop
+Machamp: 068¬90 130 80 55 65 85¬0 3 0 0 0 0¬Fighting¬Med-Slow¬63¬Guts¬193¬45¬16¬1300¬Humanshape¬5120¬Machop
+Bellsprout: 069¬50 75 35 40 70 30¬0 1 0 0 0 0¬Grass Poison¬Med-Slow¬127¬Chlorophyll¬84¬255¬7¬40¬Plant¬5120¬Bellsprout
+Weepinbell: 070¬65 90 50 55 85 45¬0 2 0 0 0 0¬Grass Poison¬Med-Slow¬127¬Chlorophyll¬151¬120¬10¬64¬Plant¬5120¬Bellsprout
+Victreebel: 071¬80 105 65 70 100 60¬0 3 0 0 0 0¬Grass Poison¬Med-Slow¬127¬Chlorophyll¬191¬45¬17¬155¬Plant¬5120¬Bellsprout
+Tentacool: 072¬40 40 35 70 50 100¬0 0 0 0 0 1¬Water Poison¬Slow¬127¬Clear Body, Liquid Ooze¬105¬190¬9¬455¬Water3¬5120¬Tentacool
+Tentacruel: 073¬80 70 65 100 80 120¬0 0 0 0 0 2¬Water Poison¬Slow¬127¬Clear Body, Liquid Ooze¬205¬60¬16¬550¬Water3¬5120¬Tentacool
+Geodude: 074¬40 80 100 20 30 30¬0 0 1 0 0 0¬Ground Rock¬Med-Slow¬127¬Rock Head, Sturdy¬86¬255¬4¬200¬Mineral¬3840¬Geodude
+Graveler: 075¬55 95 115 35 45 45¬0 0 2 0 0 0¬Ground Rock¬Med-Slow¬127¬Rock Head, Sturdy¬134¬120¬10¬1050¬Mineral¬3840¬Geodude
+Golem: 076¬80 110 130 45 55 65¬0 0 3 0 0 0¬Ground Rock¬Med-Slow¬127¬Rock Head, Sturdy¬177¬45¬14¬3000¬Mineral¬3840¬Geodude
+Ponyta: 077¬50 85 55 90 65 65¬0 0 0 1 0 0¬Fire¬Med-Fast¬127¬Run Away, Flash Fire¬152¬190¬10¬300¬Ground¬5120¬Ponyta
+Rapidash: 078¬65 100 70 105 80 80¬0 0 0 2 0 0¬Fire¬Med-Fast¬127¬Run Away, Flash Fire¬192¬60¬17¬950¬Ground¬5120¬Ponyta
+Slowpoke: 079¬90 65 65 15 40 40¬1 0 0 0 0 0¬Water Psychic¬Med-Fast¬127¬Oblivious, Own Tempo¬99¬190¬12¬360¬Monster Water1¬5120¬Slowpoke
+Slowbro: 080¬95 75 110 30 100 80¬0 0 2 0 0 0¬Water Psychic¬Med-Fast¬127¬Oblivious, Own Tempo¬164¬75¬16¬785¬Monster Water1¬5120¬Slowpoke
+Magnemite: 081¬25 35 70 45 95 55¬0 0 0 0 1 0¬Electric Steel¬Med-Fast¬N/A¬Magnet Pull, Sturdy¬89¬190¬3¬60¬Mineral¬5120¬Magnemite
+Magneton: 082¬50 60 95 70 120 70¬0 0 0 0 2 0¬Electric Steel¬Med-Fast¬N/A¬Magnet Pull, Sturdy¬161¬60¬10¬600¬Mineral¬5120¬Magnemite
+Farfetch'd: 083¬52 65 55 60 58 62¬0 1 0 0 0 0¬Normal Flying¬Med-Fast¬127¬Keen Eye, Inner Focus¬94¬45¬8¬150¬Flying¬5120¬Farfetch'd
+Doduo: 084¬35 85 45 75 35 35¬0 1 0 0 0 0¬Normal Flying¬Med-Fast¬127¬Run Away, Early Bird¬96¬190¬14¬392¬Flying¬5120¬Doduo
+Dodrio: 085¬60 110 70 100 60 60¬0 2 0 0 0 0¬Normal Flying¬Med-Fast¬127¬Run Away, Early Bird¬157¬45¬18¬852¬Flying¬5120¬Doduo
+Seel: 086¬65 45 55 45 45 70¬0 0 0 0 0 1¬Water¬Med-Fast¬127¬Thick Fat¬100¬190¬11¬900¬Water1 Ground¬5120¬Seel
+Dewgong: 087¬90 70 80 70 70 95¬0 0 0 0 0 1¬Water Ice¬Med-Fast¬127¬Thick Fat¬176¬75¬17¬1200¬Water1 Ground¬5120¬Seel
+Grimer: 088¬80 80 50 25 40 50¬1 0 0 0 0 0¬Poison¬Med-Fast¬127¬Stench, Sticky Hold¬90¬190¬9¬300¬Indeterminate¬5120¬Grimer
+Muk: 089¬105 105 75 50 65 100¬1 1 0 0 0 0¬Poison¬Med-Fast¬127¬Stench, Sticky Hold¬157¬75¬12¬300¬Indeterminate¬5120¬Grimer
+Shellder: 090¬30 65 100 40 45 25¬0 0 1 0 0 0¬Water¬Slow¬127¬Shell Armor¬97¬190¬3¬40¬Water3¬5120¬Shellder
+Cloyster: 091¬50 95 180 70 85 45¬0 0 2 0 0 0¬Water Ice¬Slow¬127¬Shell Armor¬203¬60¬15¬1325¬Water3¬5120¬Shellder
+Gastly: 092¬30 35 30 80 100 35¬0 0 0 0 1 0¬Ghost Poison¬Med-Slow¬127¬Levitate¬95¬190¬13¬1¬Indeterminate¬5120¬Gastly
+Haunter: 093¬45 50 45 95 115 55¬0 0 0 0 2 0¬Ghost Poison¬Med-Slow¬127¬Levitate¬126¬90¬16¬1¬Indeterminate¬5120¬Gastly
+Gengar: 094¬60 65 60 110 130 75¬0 0 0 0 3 0¬Ghost Poison¬Med-Slow¬127¬Levitate¬190¬45¬15¬405¬Indeterminate¬5120¬Gastly
+Onix: 095¬35 45 160 70 30 45¬0 0 1 0 0 0¬Ground Rock¬Med-Fast¬127¬Rock Head, Sturdy¬108¬45¬88¬2100¬Mineral¬6400¬Onix
+Drowzee: 096¬60 48 45 42 43 90¬0 0 0 0 0 1¬Psychic¬Med-Fast¬127¬Insomnia¬102¬190¬10¬324¬Humanshape¬5120¬Drowzee
+Hypno: 097¬85 73 70 67 73 115¬0 0 0 0 0 2¬Psychic¬Med-Fast¬127¬Insomnia¬165¬75¬16¬756¬Humanshape¬5120¬Drowzee
+Krabby: 098¬30 105 90 50 25 25¬0 1 0 0 0 0¬Water¬Med-Fast¬127¬Hyper Cutter, Shell Armor¬115¬215¬4¬65¬Water3¬5120¬Krabby
+Kingler: 099¬55 130 115 75 50 50¬0 2 0 0 0 0¬Water¬Med-Fast¬127¬Hyper Cutter, Shell Armor¬206¬60¬13¬600¬Water3¬5120¬Krabby
+Voltorb: 100¬40 30 50 100 55 55¬0 0 0 1 0 0¬Electric¬Med-Fast¬N/A¬Soundproof, Static¬103¬190¬5¬104¬Mineral¬=¬Voltorb
+Electrode: 101¬60 50 70 140 80 80¬0 0 0 2 0 0¬Electric¬Med-Fast¬N/A¬Soundproof, Static¬150¬60¬12¬666¬Mineral¬=¬Voltorb
+Exeggcute: 102¬60 40 80 40 60 45¬0 0 1 0 0 0¬Grass Psychic¬Slow¬127¬Chlorophyll¬98¬90¬4¬25¬Plant¬5120¬Exeggcute
+Exeggutor: 103¬95 95 85 55 125 65¬0 0 0 0 2 0¬Grass Psychic¬Slow¬127¬Chlorophyll¬212¬45¬20¬1200¬Plant¬5120¬Exeggcute
+Cubone: 104¬50 50 95 35 40 50¬0 0 1 0 0 0¬Ground¬Med-Fast¬127¬Rock Head, Lightningrod¬87¬190¬4¬65¬Monster¬5120¬Cubone
+Marowak: 105¬60 80 110 45 50 80¬0 0 2 0 0 0¬Ground¬Med-Fast¬127¬Rock Head, Lightningrod¬124¬75¬10¬450¬Monster¬5120¬Cubone
+Hitmonlee: 106¬50 120 53 87 35 110¬0 2 0 0 0 0¬Fighting¬Med-Fast¬0¬Limber¬139¬45¬15¬498¬Humanshape¬6400¬Tyrogue
+Hitmonchan: 107¬50 105 79 76 35 110¬0 0 0 0 0 2¬Fighting¬Med-Fast¬0¬Keen Eye¬140¬45¬14¬502¬Humanshape¬6400¬Tyrogue
+Lickitung: 108¬90 55 75 30 60 75¬2 0 0 0 0 0¬Normal¬Med-Fast¬127¬Own Tempo, Oblivious¬127¬45¬12¬655¬Monster¬6400¬Lickitung
+Koffing: 109¬40 65 95 35 60 45¬0 0 1 0 0 0¬Poison¬Med-Fast¬127¬Levitate¬114¬190¬6¬10¬Indeterminate¬5120¬Koffing
+Weezing: 110¬65 90 120 60 85 70¬0 0 2 0 0 0¬Poison¬Med-Fast¬127¬Levitate¬173¬60¬12¬95¬Indeterminate¬5120¬Koffing
+Rhyhorn: 111¬80 85 95 25 30 30¬0 0 1 0 0 0¬Ground Rock¬Slow¬127¬Rock Head, Lightningrod¬135¬120¬10¬1150¬Monster Ground¬5120¬Rhyhorn
+Rhydon: 112¬105 130 120 40 45 45¬0 2 0 0 0 0¬Ground Rock¬Slow¬127¬Rock Head, Lightningrod¬204¬60¬19¬1200¬Monster Ground¬5120¬Rhyhorn
+Chansey: 113¬250 5 5 50 35 105¬2 0 0 0 0 0¬Normal¬Fast¬255¬Natural Cure, Serene Grace¬255¬30¬11¬346¬Fairy¬10240¬Chansey
+Tangela: 114¬65 55 115 60 100 40¬0 0 1 0 0 0¬Grass¬Med-Fast¬127¬Chlorophyll¬166¬45¬10¬350¬Plant¬5120¬Tangela
+Kangaskhan: 115¬105 95 80 90 40 80¬2 0 0 0 0 0¬Normal¬Med-Fast¬255¬Early Bird¬175¬45¬22¬800¬Monster¬5120¬Kangaskhan
+Horsea: 116¬30 40 70 60 70 25¬0 0 0 0 1 0¬Water¬Med-Fast¬127¬Swift Swim¬83¬215¬4¬80¬Water1 Dragon¬5120¬Horsea
+Seadra: 117¬55 65 95 85 95 45¬0 0 1 0 2 0¬Water¬Med-Fast¬127¬Poison Point¬155¬75¬12¬250¬Water1 Dragon¬5120¬Horsea
+Goldeen: 118¬45 67 60 63 35 50¬0 1 0 0 0 0¬Water¬Med-Fast¬127¬Swift Swim, Water Veil¬111¬215¬6¬150¬Water2¬5120¬Goldeen
+Seaking: 119¬80 92 65 68 65 80¬0 2 0 0 0 0¬Water¬Med-Fast¬127¬Swift Swim, Water Veil¬170¬60¬13¬390¬Water2¬5120¬Goldeen
+Staryu: 120¬30 45 55 85 70 55¬0 0 0 1 0 0¬Water¬Slow¬N/A¬Illuminate, Natural Cure¬106¬215¬8¬345¬Water3¬5120¬Staryu
+Starmie: 121¬60 75 85 115 100 85¬0 0 0 2 0 0¬Water Psychic¬Slow¬N/A¬Illuminate, Natural Cure¬207¬60¬11¬800¬Water3¬5120¬Staryu
+Mr.mime: 122¬40 45 65 90 100 120¬0 0 0 0 0 2¬Psychic¬Med-Fast¬127¬Soundproof¬136¬45¬13¬545¬Humanshape¬6400¬Mr.mime
+Scyther: 123¬70 110 80 105 55 80¬0 1 0 0 0 0¬Bug Flying¬Med-Fast¬127¬Swarm¬187¬45¬15¬560¬Bug¬6400¬Scyther
+Jynx: 124¬65 50 35 95 115 95¬0 0 0 0 2 0¬Ice Psychic¬Med-Fast¬255¬Oblivious¬137¬45¬14¬406¬Humanshape¬6400¬Smoochum
+Electabuzz: 125¬65 83 57 105 95 85¬0 0 0 2 0 0¬Electric¬Med-Fast¬63¬Static¬156¬45¬11¬300¬Humanshape¬6400¬Elekid
+Magmar: 126¬65 95 57 93 100 85¬0 0 0 0 2 0¬Fire¬Med-Fast¬63¬Flame Body¬167¬45¬13¬445¬Humanshape¬6400¬Magby
+Pinsir: 127¬65 125 100 85 55 70¬0 2 0 0 0 0¬Bug¬Slow¬127¬Hyper Cutter¬200¬45¬15¬550¬Bug¬6400¬Pinsir
+Tauros: 128¬75 100 95 110 40 70¬0 1 0 1 0 0¬Normal¬Slow¬0¬Intimidate¬211¬45¬14¬884¬Ground¬5120¬Tauros
+Magikarp: 129¬20 10 55 80 15 20¬0 0 0 1 0 0¬Water¬Slow¬127¬Swift Swim¬20¬255¬9¬100¬Water2 Dragon¬1280¬Magikarp
+Gyarados: 130¬95 125 79 81 60 100¬0 2 0 0 0 0¬Water Flying¬Slow¬127¬Intimidate¬214¬45¬65¬2350¬Water2 Dragon¬1280¬Magikarp
+Lapras: 131¬130 85 80 60 85 95¬2 0 0 0 0 0¬Water Ice¬Slow¬127¬Water Absorb, Shell Armor¬219¬45¬25¬2200¬Monster Water1¬10240¬Lapras
+Ditto: 132¬48 48 48 48 48 48¬1 0 0 0 0 0¬Normal¬Med-Fast¬N/A¬Limber¬61¬35¬3¬40¬Ditto¬5120¬Ditto
+Eevee: 133¬55 55 50 55 45 65¬0 0 0 0 0 1¬Normal¬Med-Fast¬31¬Run Away¬92¬45¬3¬65¬Ground¬8960¬Eevee
+Vaporeon: 134¬130 65 60 65 110 95¬2 0 0 0 0 0¬Water¬Med-Fast¬31¬Water Absorb¬196¬45¬10¬290¬Ground¬8960¬Eevee
+Jolteon: 135¬65 65 60 130 110 95¬0 0 0 2 0 0¬Electric¬Med-Fast¬31¬Volt Absorb¬197¬45¬8¬245¬Ground¬8960¬Eevee
+Flareon: 136¬65 130 60 65 95 110¬0 2 0 0 0 0¬Fire¬Med-Fast¬31¬Flash Fire¬198¬45¬9¬250¬Ground¬8960¬Eevee
+Porygon: 137¬65 60 70 40 85 75¬0 0 0 0 1 0¬Normal¬Med-Fast¬N/A¬Trace¬130¬45¬8¬365¬Mineral¬5120¬Porygon
+Omanyte: 138¬35 40 100 35 90 55¬0 0 1 0 0 0¬Water Rock¬Med-Fast¬31¬Swift Swim, Shell Armor¬120¬45¬4¬75¬Water1 Water3¬7680¬Omanyte
+Omastar: 139¬70 60 125 55 115 70¬0 0 2 0 0 0¬Water Rock¬Med-Fast¬31¬Swift Swim, Shell Armor¬199¬45¬10¬350¬Water1 Water3¬7680¬Omanyte
+Kabuto: 140¬30 80 90 55 55 45¬0 0 1 0 0 0¬Water Rock¬Med-Fast¬31¬Swift Swim, Battle Armor¬119¬45¬5¬115¬Water1 Water3¬7680¬Kabuto
+Kabutops: 141¬60 115 105 80 65 70¬0 2 0 0 0 0¬Water Rock¬Med-Fast¬31¬Swift Swim, Battle Armor¬201¬45¬13¬405¬Water1 Water3¬7680¬Kabuto
+Aerodactyl: 142¬80 105 65 130 60 75¬0 0 0 2 0 0¬Rock Flying¬Slow¬31¬Rock Head, Pressure¬202¬45¬18¬590¬Flying¬8960¬Aerodactyl
+Snorlax: 143¬160 110 65 30 65 110¬2 0 0 0 0 0¬Normal¬Slow¬31¬Immunity, Thick Fat¬154¬25¬21¬4600¬Monster¬10240¬Snorlax
+Articuno: 144¬90 85 100 85 95 125¬0 0 0 0 0 3¬Ice Flying¬Slow¬N/A¬Pressure¬215¬3¬17¬554¬NoEggs¬20480¬Articuno
+Zapdos: 145¬90 90 85 100 125 90¬0 0 0 0 3 0¬Electric Flying¬Slow¬N/A¬Pressure¬216¬3¬16¬526¬NoEggs¬20480¬Zapdos
+Moltres: 146¬90 100 90 90 125 85¬0 0 0 0 3 0¬Fire Flying¬Slow¬N/A¬Pressure¬217¬3¬20¬600¬NoEggs¬20480¬Moltres
+Dratini: 147¬41 64 45 50 50 50¬0 1 0 0 0 0¬Dragon¬Slow¬127¬Shed Skin¬67¬45¬18¬33¬Dragon Water1¬10240¬Dratini
+Dragonair: 148¬61 84 65 70 70 70¬0 2 0 0 0 0¬Dragon¬Slow¬127¬Shed Skin¬144¬45¬40¬165¬Dragon Water1¬10240¬Dratini
+Dragonite: 149¬91 134 95 80 100 100¬0 3 0 0 0 0¬Dragon Flying¬Slow¬127¬Inner Focus¬218¬45¬22¬2100¬Dragon Water1¬10240¬Dratini
+Mewtwo: 150¬106 110 90 130 154 90¬0 0 0 0 3 0¬Psychic¬Slow¬N/A¬Pressure¬220¬3¬20¬1220¬NoEggs¬30720¬Mewtwo
+Mew: 151¬100 100 100 100 100 100¬3 0 0 0 0 0¬Psychic¬Med-Slow¬N/A¬Synchronize¬64¬45¬4¬40¬NoEggs¬30720¬Mew
+Chikorita: 152¬45 49 65 45 49 65¬0 0 0 0 0 1¬Grass¬Med-Slow¬31¬Overgrow¬64¬45¬9¬64¬Plant Monster¬5120¬Chikorita
+Bayleef: 153¬60 62 80 60 63 80¬0 0 1 0 0 1¬Grass¬Med-Slow¬31¬Overgrow¬141¬45¬12¬158¬Plant Monster¬5120¬Chikorita
+Meganium: 154¬80 82 100 80 83 100¬0 0 2 0 0 2¬Grass¬Med-Slow¬31¬Overgrow¬208¬45¬18¬1005¬Plant Monster¬5120¬Chikorita
+Cyndaquil: 155¬39 52 43 65 60 50¬0 0 0 1 0 0¬Fire¬Med-Slow¬31¬Blaze¬65¬45¬5¬79¬Ground¬5120¬Cyndaquil
+Quilava: 156¬58 64 58 80 80 65¬0 0 0 1 1 0¬Fire¬Med-Slow¬31¬Blaze¬142¬45¬9¬190¬Ground¬5120¬Cyndaquil
+Typhlosion: 157¬78 84 78 100 109 85¬0 0 0 0 3 0¬Fire¬Med-Slow¬31¬Blaze¬209¬45¬17¬795¬Ground¬5120¬Cyndaquil
+Totodile: 158¬50 65 64 43 44 48¬0 1 0 0 0 0¬Water¬Med-Slow¬31¬Torrent¬66¬45¬6¬95¬Monster Water1¬5120¬Totodile
+Croconaw: 159¬65 80 80 58 59 63¬0 1 1 0 0 0¬Water¬Med-Slow¬31¬Torrent¬143¬45¬11¬250¬Monster Water1¬5120¬Totodile
+Feraligatr: 160¬85 105 100 78 79 83¬0 2 1 0 0 0¬Water¬Med-Slow¬31¬Torrent¬210¬45¬23¬888¬Monster Water1¬5120¬Totodile
+Sentret: 161¬35 46 34 20 35 45¬0 1 0 0 0 0¬Normal¬Med-Fast¬127¬Run Away, Keen Eye¬57¬255¬8¬60¬Ground¬3840¬Sentret
+Furret: 162¬85 76 64 90 45 55¬0 0 0 2 0 0¬Normal¬Med-Fast¬127¬Run Away, Keen Eye¬116¬90¬18¬325¬Ground¬3840¬Sentret
+Hoothoot: 163¬60 30 30 50 36 56¬1 0 0 0 0 0¬Normal Flying¬Med-Fast¬127¬Insomnia, Keen Eye¬58¬255¬7¬212¬Flying¬3840¬Hoothoot
+Noctowl: 164¬100 50 50 70 76 96¬2 0 0 0 0 0¬Normal Flying¬Med-Fast¬127¬Insomnia, Keen Eye¬162¬90¬16¬408¬Flying¬3840¬Hoothoot
+Ledyba: 165¬40 20 30 55 40 80¬0 0 0 0 0 1¬Bug Flying¬Fast¬127¬Swarm, Early Bird¬54¬255¬10¬108¬Bug¬3840¬Ledyba
+Ledian: 166¬55 35 50 85 55 110¬0 0 0 0 0 2¬Bug Flying¬Fast¬127¬Swarm, Early Bird¬134¬90¬14¬356¬Bug¬3840¬Ledyba
+Spinarak: 167¬40 60 40 30 40 40¬0 1 0 0 0 0¬Bug Poison¬Fast¬127¬Swarm, Insomnia¬54¬255¬5¬85¬Bug¬3840¬Spinarak
+Ariados: 168¬70 90 70 40 60 60¬0 2 0 0 0 0¬Bug Poison¬Fast¬127¬Swarm, Insomnia¬134¬90¬11¬335¬Bug¬3840¬Spinarak
+Crobat: 169¬85 90 80 130 70 80¬0 0 0 3 0 0¬Flying Poison¬Med-Fast¬127¬Inner Focus¬204¬90¬18¬750¬Flying¬3840¬Zubat
+Chinchou: 170¬75 38 38 67 56 56¬1 0 0 0 0 0¬Water Electric¬Slow¬127¬Volt Absorb, Illuminate¬90¬190¬5¬120¬Water2¬5120¬Chinchou
+Lanturn: 171¬125 58 58 67 76 76¬2 0 0 0 0 0¬Water Electric¬Slow¬127¬Volt Absorb, Illuminate¬156¬75¬12¬225¬Water2¬5120¬Chinchou
+Pichu: 172¬20 40 15 60 35 35¬0 0 0 1 0 0¬Electric¬Med-Fast¬127¬Static¬42¬190¬3¬20¬NoEggs¬2560¬Pichu
+Cleffa: 173¬50 25 28 15 45 55¬0 0 0 0 0 1¬Normal¬Fast¬191¬Cute Charm¬37¬150¬3¬30¬NoEggs¬2560¬Cleffa
+Igglybuff: 174¬90 30 15 15 40 20¬1 0 0 0 0 0¬Normal¬Fast¬191¬Cute Charm¬39¬170¬3¬10¬NoEggs¬2560¬Igglybuff
+Togepi: 175¬35 20 65 20 40 65¬0 0 0 0 0 1¬Normal¬Fast¬31¬Hustle, Serene Grace¬74¬190¬3¬15¬NoEggs¬2560¬Togepi
+Togetic: 176¬55 40 85 40 80 105¬0 0 0 0 0 2¬Normal Flying¬Fast¬31¬Hustle, Serene Grace¬114¬75¬6¬32¬Fairy Flying¬5120¬Togepi
+Natu: 177¬40 50 45 70 70 45¬0 0 0 0 1 0¬Psychic Flying¬Med-Fast¬127¬Synchronize, Early Bird¬73¬190¬2¬20¬Flying¬5120¬Natu
+Xatu: 178¬65 75 70 95 95 70¬0 0 0 1 1 0¬Psychic Flying¬Med-Fast¬127¬Synchronize, Early Bird¬171¬75¬15¬150¬Flying¬5120¬Natu
+Mareep: 179¬55 40 40 35 65 45¬0 0 0 0 1 0¬Electric¬Med-Slow¬127¬Static¬59¬235¬6¬78¬Ground Monster¬5120¬Mareep
+Flaaffy: 180¬70 55 55 45 80 60¬0 0 0 0 2 0¬Electric¬Med-Slow¬127¬Static¬117¬120¬8¬133¬Ground Monster¬5120¬Mareep
+Ampharos: 181¬90 75 75 55 115 90¬0 0 0 0 3 0¬Electric¬Med-Slow¬127¬Static¬194¬45¬14¬615¬Ground Monster¬5120¬Mareep
+Bellossom: 182¬75 80 85 50 90 100¬0 0 0 0 0 3¬Grass¬Med-Slow¬127¬Chlorophyll¬184¬45¬4¬58¬Plant¬5120¬Oddish
+Marill: 183¬70 20 50 40 20 50¬2 0 0 0 0 0¬Water¬Fast¬127¬Thick Fat, Huge Power¬58¬190¬4¬85¬Fairy Water1¬2560¬Marill
+Azumarill: 184¬100 50 80 50 50 80¬3 0 0 0 0 0¬Water¬Fast¬127¬Thick Fat, Huge Power¬153¬75¬8¬285¬Fairy Water1¬2560¬Marill
+Sudowoodo: 185¬70 100 115 30 30 65¬0 0 2 0 0 0¬Rock¬Med-Fast¬127¬Sturdy, Rock Head¬135¬65¬12¬380¬Mineral¬5120¬Sudowoodo
+Politoed: 186¬90 75 75 70 90 100¬0 0 0 0 0 3¬Water¬Med-Slow¬127¬Water Absorb, Damp¬185¬45¬11¬339¬Water1¬5120¬Poliwag
+Hoppip: 187¬35 35 40 50 35 55¬0 0 0 0 0 1¬Grass Flying¬Med-Slow¬127¬Chlorophyll¬74¬255¬4¬5¬Plant Fairy¬5120¬Hoppip
+Skiploom: 188¬55 45 50 80 45 65¬0 0 0 2 0 0¬Grass Flying¬Med-Slow¬127¬Chlorophyll¬136¬120¬6¬10¬Plant Fairy¬5120¬Hoppip
+Jumpluff: 189¬75 55 70 110 55 85¬0 0 0 3 0 0¬Grass Flying¬Med-Slow¬127¬Chlorophyll¬176¬45¬8¬30¬Plant Fairy¬5120¬Hoppip
+Aipom: 190¬55 70 55 85 40 55¬0 0 0 1 0 0¬Normal¬Fast¬127¬Run Away, Pickup¬94¬45¬8¬115¬Ground¬5120¬Aipom
+Sunkern: 191¬30 30 30 30 30 30¬0 0 0 0 1 0¬Grass¬Med-Slow¬127¬Chlorophyll¬52¬235¬3¬18¬Plant¬5120¬Sunkern
+Sunflora: 192¬75 75 55 30 105 85¬0 0 0 0 2 0¬Grass¬Med-Slow¬127¬Chlorophyll¬146¬120¬8¬85¬Plant¬5120¬Sunkern
+Yanma: 193¬65 65 45 95 75 45¬0 0 0 2 0 0¬Bug Flying¬Med-Fast¬127¬Speed Boost, Compoundeyes¬147¬75¬12¬380¬Bug¬5120¬Yanma
+Wooper: 194¬55 45 45 15 25 25¬0 0 0 0 0 0¬Water Ground¬Med-Fast¬127¬Damp, Water Absorb¬52¬255¬4¬85¬Water1 Ground¬5120¬Wooper
+Quagsire: 195¬95 85 85 35 65 65¬1 0 0 0 0 0¬Water Ground¬Med-Fast¬127¬Damp, Water Absorb¬137¬10¬14¬750¬Water1 Ground¬5120¬Wooper
+Espeon: 196¬65 65 60 110 130 95¬2 0 0 0 2 0¬Psychic¬Med-Fast¬31¬Synchronize¬197¬45¬9¬265¬Ground¬8960¬Eevee
+Umbreon: 197¬95 65 110 65 60 130¬0 0 0 0 0 2¬Dark¬Med-Fast¬31¬Synchronize¬197¬45¬10¬270¬Ground¬8960¬Eevee
+Murkrow: 198¬60 85 42 91 85 42¬0 0 0 1 0 0¬Dark Flying¬Med-Slow¬127¬Insomnia¬107¬30¬5¬21¬Flying¬8960¬Murkrow
+Slowking: 199¬95 75 80 30 100 110¬0 0 0 0 0 3¬Water Psychic¬Med-Fast¬127¬Oblivious, Own Tempo¬164¬70¬20¬795¬Monster Water1¬5120¬Slowpoke
+Misdreavus: 200¬60 60 60 85 85 85¬0 0 0 0 1 1¬Ghost¬Fast¬127¬Levitate¬147¬45¬7¬10¬Indeterminate¬6400¬Misdreavus
+Unown: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown
+Wobbuffet: 202¬190 33 58 33 33 58¬2 0 0 0 0 0¬Psychic¬Med-Fast¬127¬Shadow Tag¬177¬45¬13¬285¬Indeterminate¬5120¬Wobbuffet
+Girafarig: 203¬70 80 65 85 90 65¬0 0 0 0 2 0¬Normal Psychic¬Med-Fast¬127¬Inner Focus, Early Bird¬149¬60¬15¬415¬Ground¬5120¬Girafarig
+Pineco: 204¬50 65 90 15 35 35¬0 0 1 0 0 0¬Bug¬Med-Fast¬127¬Sturdy¬60¬190¬6¬72¬Bug¬5120¬Pineco
+Forretress: 205¬75 90 140 40 60 60¬0 0 2 0 0 0¬Bug Steel¬Med-Fast¬127¬Sturdy¬118¬75¬12¬1258¬Bug Steel¬5120¬Pineco
+Dunsparce: 206¬100 70 70 45 65 65¬1 0 0 0 0 0¬Normal¬Med-Fast¬127¬Serene Grace, Run Away¬75¬190¬15¬140¬Ground¬5120¬Dunsparce
+Gligar: 207¬65 75 105 85 35 65¬0 0 1 0 0 0¬Ground Flying¬Med-Slow¬127¬Hyper Cutter, Sand Veil¬108¬60¬11¬648¬Bug¬5120¬Gligar
+Steelix: 208¬75 85 200 30 55 65¬0 0 2 0 0 0¬Ground Steel¬Med-Fast¬127¬Rock Head, Sturdy¬196¬25¬92¬4000¬Mineral¬6400¬Onix
+Snubbull: 209¬60 80 50 30 40 40¬0 1 0 0 0 0¬Normal¬Fast¬191¬Intimidate, Run Away¬63¬190¬6¬78¬Ground Fairy¬5120¬Snubbull
+Granbull: 210¬90 120 75 45 60 60¬0 2 0 0 0 0¬Normal¬Fast¬191¬Intimidate¬178¬75¬14¬487¬Ground Fairy¬5120¬Snubbull
+Qwilfish: 211¬65 95 75 85 55 55¬0 1 0 0 0 0¬Water Poison¬Med-Fast¬127¬Poison Point, Swift Swim¬100¬45¬5¬39¬Water2¬5120¬Qwilfish
+Scizor: 212¬70 130 100 65 55 80¬0 2 0 0 0 0¬Bug Steel¬Med-Fast¬127¬Swarm¬200¬25¬18¬1180¬Bug¬6400¬Scyther
+Shuckle: 213¬20 10 230 5 10 230¬0 0 1 0 0 1¬Bug Rock¬Med-Slow¬127¬Sturdy¬80¬190¬6¬205¬Bug¬5120¬Shuckle
+Heracross: 214¬80 125 75 85 40 95¬0 2 0 0 0 0¬Bug Fighting¬Slow¬127¬Swarm, Guts¬200¬45¬15¬540¬Bug¬6400¬Heracross
+Sneasel: 215¬55 95 55 115 35 75¬0 0 0 1 0 0¬Dark Ice¬Med-Slow¬127¬Inner Focus, Keen Eye¬132¬60¬9¬280¬Ground¬5120¬Sneasel
+Teddiursa: 216¬60 80 50 40 50 50¬0 1 0 0 0 0¬Normal¬Med-Fast¬127¬Pickup¬124¬120¬6¬88¬Ground¬5120¬Teddiursa
+Ursaring: 217¬90 130 75 55 75 75¬0 2 0 0 0 0¬Normal¬Med-Fast¬127¬Guts¬189¬60¬18¬1258¬Ground¬5120¬Teddiursa
+Slugma: 218¬40 40 40 20 70 40¬0 0 0 0 1 0¬Fire¬Med-Fast¬127¬Magma Armor, Flame Body¬78¬190¬7¬350¬Indeterminate¬5120¬Slugma
+Magcargo: 219¬50 50 120 30 80 80¬0 0 2 0 0 0¬Fire Rock¬Med-Fast¬127¬Magma Armor, Flame Body¬154¬75¬8¬550¬Indeterminate¬5120¬Slugma
+Swinub: 220¬50 50 40 50 30 30¬0 1 0 0 0 0¬Ice Ground¬Slow¬127¬Oblivious¬78¬215¬4¬65¬Ground¬5120¬Swinub
+Piloswine: 221¬100 100 80 50 60 60¬1 1 0 0 0 0¬Ice Ground¬Slow¬127¬Oblivious¬160¬75¬11¬558¬Ground¬5120¬Swinub
+Corsola: 222¬55 55 85 35 65 85¬0 0 1 0 0 1¬Water Rock¬Fast¬127¬Hustle, Natural Cure¬113¬60¬6¬50¬Water1 Water3¬5120¬Corsola
+Remoraid: 223¬35 65 35 65 65 35¬0 0 0 0 1 0¬Water¬Med-Fast¬127¬Hustle¬78¬190¬6¬120¬Water2¬5120¬Remoraid
+Octillery: 224¬75 105 75 45 105 75¬0 1 0 0 1 0¬Water¬Med-Fast¬127¬Suction Cups¬164¬75¬9¬285¬Water2¬5120¬Remoraid
+Delibird: 225¬45 55 45 75 65 45¬0 0 0 1 0 0¬Ice Flying¬Fast¬127¬Vital Spirit, Hustle¬183¬45¬9¬160¬Ground¬5120¬Delibird
+Mantine: 226¬65 40 70 70 80 140¬0 0 0 0 0 2¬Water Flying¬Slow¬127¬Swift Swim, Water Absorb¬168¬25¬21¬2200¬Water1¬5120¬Mantine
+Skarmory: 227¬65 80 140 70 40 70¬0 0 2 0 0 0¬Steel Flying¬Slow¬127¬Keen Eye, Sturdy¬168¬25¬17¬505¬Flying¬6400¬Skarmory
+Houndour: 228¬45 60 30 65 80 50¬0 0 0 0 1 0¬Fire Dark¬Slow¬127¬Early Bird, Flash Fire¬114¬120¬6¬108¬Ground¬5120¬Houndour
+Houndoom: 229¬75 90 50 95 110 80¬0 0 0 0 2 0¬Fire Dark¬Slow¬127¬Early Bird, Flash Fire¬204¬45¬14¬350¬Ground¬5120¬Houndour
+Kingdra: 230¬75 95 95 85 95 95¬0 1 1 0 1 0¬Water Dragon¬Med-Fast¬127¬Swift Swim¬207¬45¬18¬1520¬Water1 Dragon¬5120¬Horsea
+Phanpy: 231¬90 60 60 40 40 40¬1 0 0 0 0 0¬Ground¬Med-Fast¬127¬Pickup¬124¬120¬5¬335¬Ground¬5120¬Phanpy
+Donphan: 232¬90 120 120 50 60 60¬0 1 1 0 0 0¬Ground¬Med-Fast¬127¬Sturdy¬189¬60¬11¬1200¬Ground¬5120¬Phanpy
+Porygon2: 233¬85 80 90 60 105 95¬0 0 0 0 2 0¬Normal¬Med-Fast¬N/A¬Trace¬180¬45¬6¬325¬Mineral¬5120¬Porygon
+Stantler: 234¬73 95 62 85 85 65¬0 1 0 0 0 0¬Normal¬Slow¬127¬Intimidate¬165¬45¬14¬712¬Ground¬5120¬Stantler
+Smeargle: 235¬55 20 35 75 20 45¬0 0 0 1 0 0¬Normal¬Fast¬127¬Own Tempo¬106¬45¬12¬580¬Ground¬5120¬Smeargle
+Tyrogue: 236¬35 35 35 35 35 35¬0 1 0 0 0 0¬Fighting¬Med-Fast¬0¬Guts¬91¬75¬7¬210¬NoEggs¬6400¬Tyrogue
+Hitmontop: 237¬50 95 95 70 35 110¬0 0 0 0 0 2¬Fighting¬Med-Fast¬0¬Intimidate¬138¬45¬14¬480¬Humanshape¬6400¬Tyrogue
+Smoochum: 238¬45 30 15 65 85 65¬0 0 0 0 2 0¬Ice Psychic¬Med-Fast¬255¬Oblivious¬87¬45¬4¬60¬NoEggs¬6400¬Smoochum
+Elekid: 239¬45 63 37 95 65 55¬0 0 0 1 0 0¬Electric¬Med-Fast¬63¬Static¬106¬45¬6¬235¬NoEggs¬6400¬Elekid
+Magby: 240¬45 75 37 83 70 55¬0 0 0 1 0 0¬Fire¬Med-Fast¬63¬Flame Body¬117¬45¬7¬214¬NoEggs¬6400¬Magby
+Miltank: 241¬95 80 105 100 40 70¬0 0 2 0 0 0¬Normal¬Slow¬255¬Thick Fat¬200¬45¬12¬755¬Ground¬5120¬Miltank
+Blissey: 242¬255 10 10 55 75 135¬3 0 0 0 0 0¬Normal¬Fast¬255¬Natural Cure, Serene Grace¬255¬30¬15¬468¬Fairy¬10240¬Chansey
+Raikou: 243¬90 85 75 115 115 100¬0 0 0 2 1 0¬Electric¬Slow¬N/A¬Pressure¬216¬3¬19¬1780¬NoEggs¬20480¬Raikou
+Entei: 244¬115 115 85 100 90 75¬1 2 0 0 0 0¬Fire¬Slow¬N/A¬Pressure¬217¬3¬21¬1980¬NoEggs¬20480¬Entei
+Suicune: 245¬100 75 115 85 90 115¬0 0 1 0 0 2¬Water¬Slow¬N/A¬Pressure¬215¬3¬20¬1870¬NoEggs¬20480¬Suicune
+Larvitar: 246¬50 64 50 41 45 50¬0 1 0 0 0 0¬Ground Rock¬Slow¬127¬Guts¬67¬45¬6¬720¬Monster¬10240¬Larvitar
+Pupitar: 247¬70 84 70 51 65 70¬0 2 0 0 0 0¬Ground Rock¬Slow¬127¬Shed Skin¬144¬45¬12¬1520¬Monster¬10240¬Larvitar
+Tyranitar: 248¬100 134 110 61 95 100¬0 3 0 0 0 0¬Rock Dark¬Slow¬127¬Sand Stream¬218¬45¬20¬2020¬Monster¬10240¬Larvitar
+Lugia: 249¬106 90 130 110 90 154¬0 0 0 0 0 3¬Psychic Flying¬Slow¬N/A¬Pressure¬220¬3¬52¬2160¬NoEggs¬30720¬Lugia
+Ho-oh: 250¬106 130 90 90 110 154¬0 0 0 0 0 3¬Fire Flying¬Slow¬N/A¬Pressure¬220¬3¬38¬1990¬NoEggs¬30720¬Ho-oh
+Celebi: 251¬100 100 100 100 100 100¬3 0 0 0 0 0¬Grass Psychic¬Med-Slow¬N/A¬Natural Cure¬64¬45¬6¬50¬NoEggs¬30720¬Celebi
+Treecko: 252¬40 45 35 70 65 55¬0 0 0 1 0 0¬Grass¬Med-Slow¬31¬Overgrow¬65¬190¬5¬50¬Monster Dragon¬5120¬Treecko
+Grovyle: 253¬50 65 45 95 85 65¬0 0 0 2 0 0¬Grass¬Med-Slow¬31¬Overgrow¬141¬114¬9¬216¬Monster Dragon¬5120¬Treecko
+Sceptile: 254¬70 85 65 120 105 85¬0 0 0 3 0 0¬Grass¬Med-Slow¬31¬Overgrow¬208¬47¬17¬522¬Monster Dragon¬5120¬Treecko
+Torchic: 255¬45 60 40 45 70 50¬0 0 0 0 1 0¬Fire¬Med-Slow¬31¬Blaze¬65¬190¬4¬25¬Ground¬5120¬Torchic
+Combusken: 256¬60 85 60 55 85 60¬0 1 0 0 1 0¬Fire Fighting¬Med-Slow¬31¬Blaze¬142¬113¬9¬195¬Ground¬5120¬Torchic
+Blaziken: 257¬80 120 70 80 110 70¬0 3 0 0 0 0¬Fire Fighting¬Med-Slow¬31¬Blaze¬209¬46¬19¬520¬Ground¬5120¬Torchic
+Mudkip: 258¬50 70 50 40 50 50¬0 1 0 0 0 0¬Water¬Med-Slow¬31¬Torrent¬65¬190¬4¬76¬Water1 Monster¬5120¬Mudkip
+Marshtomp: 259¬70 85 70 50 60 70¬0 2 0 0 0 0¬Water Ground¬Med-Slow¬31¬Torrent¬143¬112¬7¬280¬Water1 Monster¬5120¬Mudkip
+Swampert: 260¬100 110 90 60 85 90¬0 3 0 0 0 0¬Water Ground¬Med-Slow¬31¬Torrent¬210¬45¬15¬819¬Water1 Monster¬5120¬Mudkip
+Poochyena: 261¬35 55 35 35 30 30¬0 1 0 0 0 0¬Dark¬Med-Slow¬127¬Run Away¬55¬200¬5¬136¬Ground¬3840¬Poochyena
+Mightyena: 262¬70 90 70 70 60 60¬0 2 0 0 0 0¬Dark¬Med-Fast¬127¬Intimidate¬128¬127¬10¬370¬Ground¬3840¬Poochyena
+Zigzagoon: 263¬38 30 41 60 30 41¬0 0 0 1 0 0¬Normal¬Med-Fast¬127¬Pickup¬60¬195¬4¬175¬Ground¬3840¬Zigzagoon
+Linoone: 264¬78 70 61 100 50 61¬0 0 0 2 0 0¬Normal¬Med-Fast¬127¬Pickup¬128¬127¬5¬325¬Ground¬3840¬Zigzagoon
+Wurmple: 265¬45 45 35 20 20 30¬1 0 0 0 0 0¬Bug¬Med-Fast¬127¬Shield Dust¬54¬201¬3¬36¬Bug¬3840¬Wurmple
+Silcoon: 266¬50 35 55 15 25 25¬0 0 2 0 0 0¬Bug¬Med-Fast¬127¬Shed Skin¬71¬184¬6¬100¬Bug¬3840¬Wurmple
+Beautifly: 267¬60 70 50 65 90 50¬0 0 0 0 3 0¬Bug Flying¬Med-Fast¬127¬Swarm¬161¬94¬10¬284¬Bug¬3840¬Wurmple
+Cascoon: 268¬50 35 55 15 25 25¬0 0 2 0 0 0¬Bug¬Med-Fast¬127¬Shed Skin¬72¬183¬7¬115¬Bug¬3840¬Wurmple
+Dustox: 269¬60 50 70 65 50 90¬0 0 0 0 0 3¬Bug Poison¬Med-Fast¬127¬Shield Dust¬160¬95¬12¬316¬Bug¬3840¬Wurmple
+Lotad: 270¬40 30 30 30 40 50¬0 0 0 0 0 1¬Water Grass¬Med-Slow¬127¬Swift Swim, Rain Dish¬74¬181¬5¬26¬Plant Water1¬3840¬Lotad
+Lombre: 271¬60 50 50 50 60 70¬0 0 0 0 0 2¬Water Grass¬Med-Slow¬127¬Swift Swim, Rain Dish¬141¬114¬12¬325¬Plant Water1¬3840¬Lotad
+Ludicolo: 272¬80 70 70 70 90 100¬0 0 0 0 0 3¬Water Grass¬Med-Slow¬127¬Swift Swim, Rain Dish¬181¬74¬15¬550¬Plant Water1¬3840¬Lotad
+Seedot: 273¬40 40 50 30 30 30¬0 0 1 0 0 0¬Grass¬Med-Slow¬127¬Chlorophyll, Early Bird¬74¬181¬5¬40¬Plant Ground¬3840¬Seedot
+Nuzleaf: 274¬70 70 40 60 60 40¬0 2 0 0 0 0¬Grass Dark¬Med-Slow¬127¬Chlorophyll, Early Bird¬141¬114¬10¬280¬Plant Ground¬3840¬Seedot
+Shiftry: 275¬90 100 60 80 90 60¬0 3 0 0 0 0¬Grass Dark¬Med-Slow¬127¬Chlorophyll, Early Bird¬181¬74¬13¬596¬Plant Ground¬3840¬Seedot
+Taillow: 276¬40 55 30 85 30 30¬0 0 0 1 0 0¬Normal Flying¬Med-Slow¬127¬Guts¬59¬196¬3¬23¬Flying¬3840¬Taillow
+Swellow: 277¬60 85 60 125 50 50¬0 0 0 2 0 0¬Normal Flying¬Med-Slow¬127¬Guts¬162¬93¬7¬198¬Flying¬3840¬Taillow
+Wingull: 278¬40 30 30 85 55 30¬0 0 0 1 0 0¬Water Flying¬Med-Fast¬127¬Keen Eye¬64¬191¬6¬95¬Flying Water1¬5120¬Wingull
+Pelipper: 279¬60 50 100 65 85 70¬0 0 2 0 0 0¬Water Flying¬Med-Fast¬127¬Keen Eye¬164¬91¬12¬280¬Flying Water1¬5120¬Wingull
+Ralts: 280¬28 25 25 40 45 35¬0 0 0 0 1 0¬Psychic¬Slow¬127¬Synchronize, Trace¬70¬185¬4¬66¬Indeterminate¬5120¬Ralts
+Kirlia: 281¬38 35 35 50 65 55¬0 0 0 0 2 0¬Psychic¬Slow¬127¬Synchronize, Trace¬140¬115¬8¬202¬Indeterminate¬5120¬Ralts
+Gardevoir: 282¬68 65 65 80 125 115¬0 0 0 0 3 0¬Psychic¬Slow¬127¬Synchronize, Trace¬208¬47¬16¬484¬Indeterminate¬5120¬Ralts
+Surskit: 283¬40 30 32 65 50 52¬0 0 0 1 0 0¬Bug Water¬Med-Fast¬127¬Swift Swim¬63¬192¬5¬17¬Bug Water1¬3840¬Surskit
+Masquerain: 284¬70 60 62 60 80 62¬0 0 0 0 1 1¬Bug Flying¬Med-Fast¬127¬Intimidate¬128¬127¬8¬36¬Bug Water1¬3840¬Surskit
+Shroomish: 285¬60 40 60 35 40 60¬1 0 0 0 0 0¬Grass¬Fluctuating¬127¬Effect Spore¬65¬190¬4¬45¬Plant Fairy¬3840¬Shroomish
+Breloom: 286¬60 130 80 70 60 60¬0 2 0 0 0 0¬Grass Fighting¬Fluctuating¬127¬Effect Spore¬165¬90¬12¬392¬Plant Fairy¬3840¬Shroomish
+Slakoth: 287¬60 60 60 30 35 35¬1 0 0 0 0 0¬Normal¬Slow¬127¬Truant¬83¬172¬8¬240¬Ground¬3840¬Slakoth
+Vigoroth: 288¬80 80 80 90 55 55¬0 0 0 2 0 0¬Normal¬Slow¬127¬Vital Spirit¬126¬129¬14¬465¬Ground¬3840¬Slakoth
+Slaking: 289¬150 160 100 100 95 65¬3 0 0 0 0 0¬Normal¬Slow¬127¬Truant¬210¬45¬20¬1305¬Ground¬3840¬Slakoth
+Nincada: 290¬31 45 90 40 30 30¬0 0 1 0 0 0¬Bug Ground¬Erratic¬127¬Coumpound Eyes¬65¬190¬5¬55¬Bug¬3840¬Nincada
+Ninjask: 291¬61 90 45 160 50 50¬0 0 0 2 0 0¬Bug Flying¬Erratic¬127¬Speed Boost¬155¬100¬8¬120¬Bug¬3840¬Nincada
+Shedinja: 292¬1 90 45 40 30 30¬2 0 0 0 0 0¬Bug Ghost¬Erratic¬N/A¬Wonder Guard¬95¬160¬8¬12¬Mineral¬3840¬Nincada
+Whismur: 293¬64 51 23 28 51 23¬1 0 0 0 0 0¬Normal¬Med-Slow¬127¬Soundproof¬68¬187¬6¬163¬Monster Ground¬5120¬Whismur
+Loudred: 294¬84 71 43 48 71 43¬2 0 0 0 0 0¬Normal¬Med-Slow¬127¬Soundproof¬126¬129¬10¬405¬Monster Ground¬5120¬Whismur
+Exploud: 295¬104 91 63 68 91 63¬3 0 0 0 0 0¬Normal¬Med-Slow¬127¬Soundproof¬184¬71¬15¬840¬Monster Ground¬5120¬Whismur
+Makuhita: 296¬72 60 30 25 20 30¬1 0 0 0 0 0¬Fighting¬Fluctuating¬63¬Thick Fat, Guts¬87¬168¬10¬864¬Humanshape¬5120¬Makuhita
+Hariyama: 297¬144 120 60 50 40 60¬2 0 0 0 0 0¬Fighting¬Fluctuating¬63¬Thick Fat, Guts¬184¬71¬23¬2538¬Humanshape¬5120¬Makuhita
+Azurill: 298¬50 20 40 20 20 40¬1 0 0 0 0 0¬Normal¬Fast¬191¬Thick Fat, Huge Power¬33¬222¬2¬20¬NoEggs¬2560¬Azurill
+Nosepass: 299¬30 45 135 30 45 90¬0 0 1 0 0 0¬Rock¬Med-Fast¬127¬Sturdy, Magnet Pull¬108¬147¬10¬970¬Mineral¬5120¬Nosepass
+Skitty: 300¬50 45 45 50 35 35¬0 0 0 1 0 0¬Normal¬Fast¬191¬Cute Charm¬65¬190¬6¬110¬Fairy Ground¬5120¬Skitty
+Delcatty: 301¬70 65 65 70 55 55¬1 0 0 1 0 0¬Normal¬Fast¬191¬Cute Charm¬138¬117¬11¬326¬Fairy Ground¬5120¬Skitty
+Sableye: 302¬50 75 75 50 65 65¬0 1 1 0 0 0¬Dark Ghost¬Med-Slow¬127¬Keen Eye¬98¬157¬5¬110¬Humanshape¬6400¬Sableye
+Mawile: 303¬50 85 85 50 55 55¬0 1 1 0 0 0¬Steel¬Fast¬127¬Hyper Cutter, Intimidate¬98¬157¬6¬115¬Fairy Ground¬5120¬Mawile
+Aron: 304¬50 70 100 30 40 40¬0 0 1 0 0 0¬Steel Rock¬Slow¬127¬Sturdy, Rock Head¬96¬159¬4¬600¬Monster¬8960¬Aron
+Lairon: 305¬60 90 140 40 50 50¬0 0 2 0 0 0¬Steel Rock¬Slow¬127¬Sturdy, Rock Head¬152¬103¬9¬1200¬Monster¬8960¬Aron
+Aggron: 306¬70 110 180 50 60 60¬0 0 3 0 0 0¬Steel Rock¬Slow¬127¬Sturdy, Rock Head¬205¬50¬21¬3600¬Monster¬8960¬Aron
+Meditite: 307¬30 40 55 60 40 55¬0 0 0 0 1 0¬Fighting Psychic¬Med-Fast¬127¬Pure Power¬91¬164¬6¬112¬Humanshape¬5120¬Meditite
+Medicham: 308¬60 60 75 80 60 75¬0 0 0 0 2 0¬Fighting Psychic¬Med-Fast¬127¬Pure Power¬153¬102¬13¬315¬Humanshape¬5120¬Meditite
+Electrike: 309¬40 45 40 65 65 40¬0 0 0 1 0 0¬Electric¬Slow¬127¬Static, Lightningrod¬104¬151¬6¬152¬Ground¬5120¬Electrike
+Manectric: 310¬70 75 60 105 105 60¬0 0 0 2 0 0¬Electric¬Slow¬127¬Static, Lightningrod¬168¬87¬15¬402¬Ground¬5120¬Electrike
+Plusle: 311¬60 50 40 95 85 75¬0 0 0 1 0 0¬Electric¬Med-Fast¬127¬Plus¬120¬135¬4¬42¬Fairy¬5120¬Plusle
+Minun: 312¬60 40 50 95 75 85¬0 0 0 1 0 0¬Electric¬Med-Fast¬127¬Minus¬120¬135¬4¬42¬Fairy¬5120¬Minun
+Volbeat: 313¬65 73 55 85 47 75¬0 0 0 1 0 0¬Bug¬Erratic¬0¬Illuminate, Swarm¬146¬109¬7¬177¬Bug Humamshape¬3840¬Volbeat
+Illumise: 314¬65 47 55 85 73 75¬0 0 0 1 0 0¬Bug¬Fluctuating¬255¬Oblivious¬146¬109¬6¬177¬Bug Humamshape¬3840¬Illumise
+Roselia: 315¬50 60 45 65 100 80¬0 0 0 0 1 0¬Grass Poison¬Med-Slow¬127¬Natural Cure, Poison Point¬152¬103¬3¬20¬Plant Fairy¬5120¬Roselia
+Gulpin: 316¬70 43 53 40 43 53¬1 0 0 0 0 0¬Poison¬Fluctuating¬127¬Liquid Ooze, Sticky Hold¬75¬180¬4¬103¬Indeterminate¬5120¬Gulpin
+Swalot: 317¬100 73 83 55 73 83¬2 0 0 0 0 0¬Poison¬Fluctuating¬127¬Liquid Ooze, Sticky Hold¬168¬87¬17¬800¬Indeterminate¬5120¬Gulpin
+Carvanha: 318¬45 90 20 65 65 20¬0 1 0 0 0 0¬Water Dark¬Slow¬127¬Rough Skin¬88¬167¬8¬208¬Water2¬5120¬Carvanha
+Sharpedo: 319¬70 120 40 95 95 40¬0 2 0 0 0 0¬Water Dark¬Slow¬127¬Rough Skin¬175¬80¬18¬888¬Water2¬5120¬Carvanha
+Wailmer: 320¬130 70 35 60 70 35¬1 0 0 0 0 0¬Water¬Fluctuating¬127¬Water Veil, Oblivious¬137¬118¬20¬1300¬Water2 Ground¬10240¬Wailmer
+Wailord: 321¬170 90 45 60 90 45¬2 0 0 0 0 0¬Water¬Fluctuating¬127¬Water Veil, Oblivious¬206¬49¬145¬3980¬Water2 Ground¬10240¬Wailmer
+Numel: 322¬60 60 40 35 65 45¬0 0 0 0 1 0¬Fire Ground¬Med-Fast¬127¬Oblivious¬88¬167¬7¬240¬Ground¬5120¬Numel
+Camerupt: 323¬70 100 70 40 105 75¬0 1 0 0 1 0¬Fire Ground¬Med-Fast¬127¬Oblivious¬175¬80¬19¬2200¬Ground¬5120¬Numel
+Torkoal: 324¬70 85 140 20 85 70¬0 0 2 0 0 0¬Fire¬Med-Fast¬127¬White Smoke¬161¬94¬5¬804¬Ground¬5120¬Torkoal
+Spoink: 325¬60 25 35 60 70 80¬0 0 0 0 0 1¬Psychic¬Fast¬127¬Thick Fat, Own Tempo¬89¬166¬7¬306¬Ground¬5120¬Spoink
+Grumpig: 326¬80 45 65 80 90 110¬0 0 0 0 0 2¬Psychic¬Fast¬127¬Thick Fat, Own Tempo¬164¬91¬9¬715¬Ground¬5120¬Spoink
+Spinda: 327¬60 60 60 60 60 60¬0 0 0 0 1 0¬Normal¬Fast¬127¬Own Tempo¬85¬170¬11¬50¬Ground Humanshape¬3840¬Spinda
+Trapinch: 328¬45 100 45 10 45 45¬0 1 0 0 0 0¬Ground¬Med-Slow¬127¬Hyper Cutter, Arena Trap¬73¬182¬7¬150¬Bug¬5120¬Trapinch
+Vibrava: 329¬50 70 50 70 50 50¬0 1 0 1 0 0¬Ground Dragon¬Med-Slow¬127¬Levitate¬126¬129¬11¬153¬Bug¬5120¬Trapinch
+Flygon: 330¬80 100 80 100 80 80¬0 1 0 2 0 0¬Ground Dragon¬Med-Slow¬127¬Levitate¬197¬58¬20¬820¬Bug¬5120¬Trapinch
+Cacnea: 331¬50 85 40 35 85 40¬0 0 0 0 1 0¬Grass¬Med-Slow¬127¬Sand Veil¬97¬158¬4¬513¬Humanshape Plant¬5120¬Cacnea
+Cacturne: 332¬70 115 60 55 115 60¬0 1 0 0 1 0¬Grass Dark¬Med-Slow¬127¬Sand Veil¬177¬78¬13¬774¬Humanshape Plant¬5120¬Cacnea
+Swablu: 333¬45 40 60 50 40 75¬0 0 0 0 0 1¬Normal Flying¬Erratic¬127¬Natural Cure¬74¬181¬4¬12¬Dragon Flying¬5120¬Swablu
+Altaria: 334¬75 70 90 80 70 105¬0 0 0 0 0 2¬Dragon Flying¬Erratic¬127¬Natural Cure¬188¬67¬11¬206¬Dragon Flying¬5120¬Swablu
+Zangoose: 335¬73 115 60 90 60 60¬0 2 0 0 0 0¬Normal¬Erratic¬127¬Immunity¬165¬90¬13¬403¬Ground¬5120¬Zangoose
+Seviper: 336¬73 100 60 65 100 60¬0 1 0 0 1 0¬Poison¬Fluctuating¬127¬Shed Skin¬165¬90¬27¬525¬Dragon Ground¬5120¬Seviper
+Lunatone: 337¬70 55 65 70 95 85¬0 0 0 0 2 0¬Rock Psychic¬Fast¬N/A¬Levitate¬150¬105¬10¬1680¬Mineral¬6400¬Lunatone
+Solrock: 338¬70 95 85 70 55 65¬0 2 0 0 0 0¬Rock Psychic¬Fast¬N/A¬Levitate¬150¬105¬12¬1540¬Mineral¬6400¬Solrock
+Barboach: 339¬50 48 43 60 46 41¬1 0 0 0 0 0¬Water Ground¬Med-Fast¬127¬Oblivious¬92¬163¬4¬19¬Water2¬5120¬Barboach
+Whiscash: 340¬110 78 73 60 76 71¬2 0 0 0 0 0¬Water Ground¬Med-Fast¬127¬Oblivious¬158¬97¬9¬236¬Water2¬5120¬Barboach
+Corphish: 341¬43 80 65 35 50 35¬0 1 0 0 0 0¬Water¬Fluctuating¬127¬Hyper Cutter, Shell Armor¬111¬144¬6¬115¬Water1 Water3¬3840¬Corphish
+Crawdaunt: 342¬63 120 85 55 90 55¬0 2 0 0 0 0¬Water Dark¬Fluctuating¬127¬Hyper Cutter, Shell Armor¬161¬94¬11¬328¬Water1 Water3¬3840¬Crawdaunt
+Baltoy: 343¬40 40 55 55 40 70¬0 0 0 0 0 1¬Ground Psychic¬Med-Fast¬N/A¬Levitate¬58¬197¬5¬215¬Mineral¬5120¬Baltoy
+Claydol: 344¬60 70 105 75 70 120¬0 0 0 0 0 2¬Ground Psychic¬Med-Fast¬N/A¬Levitate¬189¬66¬15¬1080¬Mineral¬5120¬Baltoy
+Lileep: 345¬66 41 77 23 61 87¬0 0 0 0 0 1¬Rock Grass¬Erratic¬31¬Suction Cups¬121¬134¬10¬238¬Water3¬7680¬Lileep
+Cradily: 346¬86 81 97 43 81 107¬0 0 0 0 0 2¬Rock Grass¬Erratic¬31¬Suction Cups¬201¬54¬15¬604¬Water3¬7680¬Lileep
+Anorith: 347¬45 95 50 75 40 50¬0 1 0 0 0 0¬Rock Bug¬Erratic¬31¬Battle Armor¬119¬136¬7¬125¬Water3¬7680¬Anorith
+Armaldo: 348¬75 125 100 45 70 80¬0 2 0 0 0 0¬Rock Bug¬Erratic¬31¬Battle Armor¬200¬55¬15¬682¬Water3¬7680¬Anorith
+Feebas: 349¬20 15 20 80 10 55¬0 0 0 1 0 0¬Water¬Erratic¬127¬Swift Swim¬61¬194¬6¬74¬Water1 Dragon¬5120¬Feebas
+Milotic: 350¬95 60 79 81 100 125¬0 0 0 0 0 2¬Water¬Erratic¬127¬Marvel Scale¬213¬42¬62¬1620¬Water1 Dragon¬5120¬Feebas
+Castform: 351¬70 70 70 70 70 70¬1 0 0 0 0 0¬Normal¬Med-Fast¬127¬Forecast¬145¬110¬3¬8¬Fairy Indeterminate¬6400¬Castform
+Kecleon: 352¬60 90 70 40 60 120¬0 0 0 0 0 1¬Normal¬Med-Slow¬127¬Color Change¬132¬123¬10¬220¬Ground¬6400¬Kecleon
+Shuppet: 353¬44 75 35 45 63 33¬0 1 0 0 0 0¬Ghost¬Fast¬127¬Insomnia¬97¬158¬6¬23¬Indeterminate¬6400¬Shuppet
+Banette: 354¬64 115 65 65 83 63¬0 2 0 0 0 0¬Ghost¬Fast¬127¬Insomnia¬179¬76¬11¬125¬Indeterminate¬6400¬Shuppet
+Duskull: 355¬20 40 90 25 30 90¬0 0 1 0 0 1¬Ghost¬Fast¬127¬Levitate¬97¬158¬8¬150¬Indeterminate¬6400¬Duskull
+Dusclops: 356¬40 70 130 25 60 130¬0 0 1 0 0 2¬Ghost¬Fast¬127¬Pressure¬179¬76¬16¬306¬Indeterminate¬6400¬Duskull
+Tropius: 357¬99 68 83 51 72 87¬2 0 0 0 0 0¬Grass Flying¬Slow¬127¬Chlorophyll¬169¬86¬20¬1000¬Plant Monster¬6400¬Tropius
+Chimecho: 358¬65 50 70 65 95 80¬0 0 0 0 1 1¬Psychic¬Med-Fast¬127¬Levitate¬147¬108¬6¬10¬Indeterminate¬6400¬Chimecho
+Absol: 359¬65 130 60 75 75 60¬0 2 0 0 0 0¬Dark¬Med-Slow¬127¬Pressure¬174¬81¬12¬470¬Ground¬6400¬Absol
+Wynaut: 360¬95 23 48 23 23 48¬1 0 0 0 0 0¬Psychic¬Med-Fast¬127¬Shadow Tag¬44¬211¬6¬140¬NoEggs¬5120¬Wynaut
+Snorunt: 361¬50 50 50 50 50 50¬1 0 0 0 0 0¬Ice¬Med-Fast¬127¬Inner Focus¬74¬181¬7¬168¬Fairy Mineral¬5120¬Snorunt
+Glalie: 362¬80 80 80 80 80 80¬2 0 0 0 0 0¬Ice¬Med-Fast¬127¬Inner Focus¬187¬68¬15¬2565¬Fairy Mineral¬5120¬Snorunt
+Spheal: 363¬70 40 50 25 55 50¬1 0 0 0 0 0¬Ice Water¬Med-Slow¬127¬Thick Fat¬75¬180¬8¬395¬Ground Water1¬5120¬Spheal
+Sealeo: 364¬90 60 70 45 75 70¬2 0 0 0 0 0¬Ice Water¬Med-Slow¬127¬Thick Fat¬128¬127¬11¬876¬Ground Water1¬5120¬Spheal
+Walrein: 365¬110 80 90 65 95 90¬3 0 0 0 0 0¬Ice Water¬Med-Slow¬127¬Thick Fat¬192¬63¬14¬1506¬Ground Water1¬5120¬Spheal
+Clamperl: 366¬35 64 85 32 74 55¬0 0 1 0 0 0¬Water¬Erratic¬127¬Shell Armor¬142¬113¬4¬525¬Water1¬5120¬Clamperl
+Huntail: 367¬55 104 105 52 94 75¬0 1 1 0 0 0¬Water¬Erratic¬127¬Swift Swim¬178¬77¬17¬270¬Water1¬5120¬Clamperl
+Gorebyss: 368¬55 84 105 52 114 75¬0 0 0 0 2 0¬Water¬Erratic¬127¬Swift Swim¬178¬77¬18¬226¬Water1¬5120¬Clamperl
+Relicanth: 369¬100 90 130 55 45 65¬1 0 1 0 0 0¬Water Rock¬Slow¬31¬Swift Swim, Rock Head¬198¬57¬10¬234¬Water1 Water2¬10240¬Relicanth
+Luvdisc: 370¬43 30 55 97 40 65¬0 0 0 1 0 0¬Water¬Fast¬191¬Swift Swim¬110¬145¬6¬87¬Water2¬5120¬Luvdisc
+Bagon: 371¬45 75 60 50 40 30¬1 0 0 0 0 0¬Dragon¬Slow¬127¬Rock Head¬89¬166¬6¬421¬Dragon¬10240¬Bagon
+Shelgon: 372¬65 95 100 50 60 50¬0 0 2 0 0 0¬Dragon¬Slow¬127¬Rock Head¬144¬111¬11¬1105¬Dragon¬10240¬Bagon
+Salamence: 373¬95 135 80 100 110 80¬0 3 0 0 0 0¬Dragon Flying¬Slow¬127¬Intimidate¬218¬37¬15¬1026¬Dragon¬10240¬Bagon
+Beldum: 374¬40 55 80 30 35 60¬0 0 1 0 0 0¬Steel Psychic¬Slow¬N/A¬Clear Body¬103¬152¬6¬952¬Mineral¬10240¬Beldum
+Metang: 375¬60 75 100 50 55 80¬0 0 2 0 0 0¬Steel Psychic¬Slow¬N/A¬Clear Body¬153¬102¬12¬2025¬Mineral¬10240¬Beldum
+Metagross: 376¬80 135 130 70 95 90¬0 0 3 0 0 0¬Steel Psychic¬Slow¬N/A¬Clear Body¬210¬45¬16¬5500¬Mineral¬10240¬Beldum
+Regirock: 377¬80 100 200 50 50 100¬0 0 3 0 0 0¬Rock¬Slow¬N/A¬Clear Body¬217¬38¬17¬2300¬NoEggs¬20480¬Regirock
+Regice: 378¬80 50 100 50 100 200¬0 0 0 0 0 3¬Ice¬Slow¬N/A¬Clear Body¬216¬39¬18¬1750¬NoEggs¬20480¬Regice
+Registeel: 379¬80 75 150 50 75 150¬0 0 2 0 0 1¬Steel¬Slow¬N/A¬Clear Body¬215¬40¬19¬2050¬NoEggs¬20480¬Registeel
+Latias: 380¬80 80 90 110 110 130¬0 0 0 0 0 3¬Dragon Psychic¬Slow¬255¬Levitate¬211¬44¬14¬400¬NoEggs¬30720¬Latias
+Latios: 381¬80 90 80 110 130 110¬0 0 0 0 3 0¬Dragon Psychic¬Slow¬0¬Levitate¬211¬44¬20¬600¬NoEggs¬30720¬Latios
+Kyogre: 382¬100 100 90 90 150 140¬0 0 0 0 3 0¬Water¬Slow¬N/A¬Drizzle¬218¬37¬45¬3520¬NoEggs¬30720¬Kyogre
+Groudon: 383¬100 150 140 90 100 90¬0 3 0 0 0 0¬Ground¬Slow¬N/A¬Drought¬218¬37¬35¬9500¬NoEggs¬30720¬Groudon
+Rayquaza: 384¬105 150 90 95 150 90¬0 2 0 0 1 0¬Dragon Flying¬Slow¬N/A¬Air Lock¬220¬35¬70¬2065¬NoEggs¬30720¬Rayquaza
+Jirachi: 385¬100 100 100 100 100 100¬0 0 1 1 0 1¬Steel Psychic¬Slow¬N/A¬Serene Grace¬215¬40¬3¬11¬NoEggs¬30720¬Jirachi
+Deoxys: 386¬50 150 50 150 150 50¬0 1 0 1 1 0¬Psychic¬Slow¬N/A¬Pressure¬215¬40¬17¬608¬NoEggs¬30720¬Deoxys
+Deoxys.F: 386¬50 180 20 150 180 20¬0 2 0 0 1 0¬Psychic¬Slow¬N/A¬Pressure¬215¬40¬17¬608¬NoEggs¬30720¬Deoxys.F
+Deoxys.L: 386¬50 70 160 90 70 160¬0 0 2 0 0 1¬Psychic¬Slow¬N/A¬Pressure¬215¬40¬17¬608¬NoEggs¬30720¬Deoxys.L
+Deoxys.E: 386¬50 95 90 180 95 90¬0 0 0 3 0 0¬Psychic¬Slow¬N/A¬Pressure¬215¬40¬17¬608¬NoEggs¬30720¬Deoxys.E
+Unown.A: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.A
+Unown.B: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.B
+Unown.C: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.C
+Unown.D: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.D
+Unown.E: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.E
+Unown.F: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.F
+Unown.G: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.G
+Unown.H: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.H
+Unown.I: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.I
+Unown.J: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.J
+Unown.K: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.K
+Unown.L: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.L
+Unown.M: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.M
+Unown.N: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.N
+Unown.O: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.O
+Unown.P: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.P
+Unown.Q: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.Q
+Unown.R: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.R
+Unown.S: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.S
+Unown.T: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.T
+Unown.U: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.U
+Unown.V: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.V
+Unown.W: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.W
+Unown.X: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.X
+Unown.Y: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.Y
+Unown.Z: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.Z
+Unown.?: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.?
+Unown.!: 201¬48 72 48 48 72 48¬0 1 0 0 1 0¬Psychic¬Med-Fast¬N/A¬Levitate¬61¬215¬5¬50¬NoEggs¬10240¬Unown.!
+Egg: 000

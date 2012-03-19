@@ -1,0 +1,5 @@
+$cc $+ $arrange(.Perfil,160,%spc) $ct $+ - Edita configurações do seu nick;
+$cc $+ $arrange(.Skin (<Tema>),160,%spc) $ct $+ - Seleciona um novo esquema de cores;
+$cc $+ $arrange(.Esqueci,160,%spc) $ct $+ - Inicia o Assistente de Recuperação de Senha;
+$cc $+ $arrange(.Pass <Senha> <Nova Senha>,160,%spc) $ct $+ - Configura uma nova senha para seu login no bot;
+$cc $+ $arrange(.Descadastrar,160,%spc) $ct $+ - Solicita descadastramento do bot;

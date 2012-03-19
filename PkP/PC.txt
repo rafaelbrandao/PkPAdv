@@ -1,0 +1,3 @@
+Durante uma transferência, se houver um pokémon de mesmo nome na caixa destinatária, cancelá-la
+Durante uma transferência, se a caixa destinatária não tiver espaço suficiente, cancelá-la
+Exibir pokémon transferidos durante uma transferência de conteúdo de uma caixa

@@ -1,0 +1,202 @@
+Nome: ¥Preço Milhagem¬Uso[:Bag]¬Descrição
+PC: ¥100000 500¬Special¬Armazena pokémon no computador.
+Radio: 0¬Special¬Radio com som digital, sintoniza a Radio Tower de Johto.
+Alph Key: 0¬Special¬Chave de mecanismo desconhecido que abre uma passagem nas ruínas.
+Silver Feather: 0¬Special¬Pena reluzente de cor prateada.
+Rainbow Feather: 0¬Special¬Pena reluzente composta por várias cores.
+GS Ball: 0¬Special¬Estranho tipo de pokébola, tem as letras G e S cravadas em seu exterior.
+Silver Ticket: 0¬Special¬Ingresso de entrada para o SS Anne.
+Gold Ticket: 0¬Special¬Ingresso de entrada para o SS Tidal.
+Unknown Gene: 0¬Special¬Contém material genético de uma espécie desconhecida.
+Wailmer Pail: 0¬Special¬Pequeno regador em forma de um Wailmer.
+Rare Potion: 0¬Special¬Desenvolvida por Hugo e possui forte poder curativo.
+Star Sign: 0¬Special¬Artefato em forma de estrela. Brilha no escuro.
+Power Key: 0¬Special¬Chave do painel de controle da Power Plant.
+MooMoo Milk: ¥5000¬One:Instant¬Leite nutritivo para pokémon.
+Soothe Bell: ¥10000¬One:Instant¬Sino que promove confiança entre pokémon e treinador.
+Rare Candy: ¥20000¬One:Instant¬Doce energético que promove o desenvolvimento do pokémon.
+Small Box: ¥100000¬Special¬Armazena até 30 pokémon em seu interior.
+Normal Box: ¥125000¬Special¬Armazena até 45 pokémon em seu interior.
+Great Box: ¥150000¬Special¬Armazena até 60 pokémon em seu interior.
+Giant Box: ¥200000¬Special¬Armazena até 100 pokémon em seu interior.
+PokeDex: 0¬Special¬Desenvolvida pela Devon, ferramenta perfeita para treinadores.
+Mach Bike: 0¬Special¬Desenvolvida por Rydel, dobrará suas milhagens recebidas.
+Acro Bike: 0¬Special¬Desenvolvida por Rydel, perfeita para acrobatas.
+Running Shoes: 0¬Special¬Sapatos de corrida para reduzir o tempo entre mudança de cidades.
+Meteorite: 0¬Special¬Meteorito encontrado em Meteor Falls.
+Devon Scope: 0¬Special¬Desenvolvida pela Devon, torna visível o que é invisível.
+Old Amber: 0¬Special¬Estranho fóssil cristalizado. Algum material genético em seu interior pode ser encontrado.
+Old Rod: 0¬Special¬Pescar pokémon.
+Good Rod: 0¬Special¬Melhor performance em pesca do que a Old Rod.
+Super Rod: 0¬Special¬Melhor performance em pesca do que a Good Rod.
+Magma Emblem: 0¬Special¬Um emblema com o símbolo da equipe Magma.
+Poké Flute: 0¬Special¬Esta flauta pode acordar pokémon que estiverem dormindo.
+Coin Case: 0¬Special¬Carteira para guardar moedas do Game Corner.
+Poke Ball: ¥400 20¬One:Ball¬Capturar pokémon.
+Poké Ball: ¥400 20¬One:Ball¬Alguns dizem que servia para capturar pokémon, mas são apenas mitos.
+Great Ball: ¥1200 80¬One:Ball¬Boas chances de capturar pokémon.
+Ultra Ball: ¥3600 200¬One:Ball¬Muitas chances de capturar pokémon.
+Master Ball: ¥2 650¬One:Ball¬Sempre captura o pokémon.
+Flare Ball: ¥1500 300¬One:Ball¬Funciona melhor enquanto o clima estiver ensolarado.
+Damp Ball: ¥1500 300¬One:Ball¬Funciona melhor enquanto o clima estiver chovendo.
+Fast Ball: ¥1500 200¬One:Ball¬Boas chances de capturar um pokémon que normalmente fugiria da batalha.
+Magma Ball: ¥5000 500¬One:Ball¬Uma pokébola que possui o emblema da equipe Magma.
+Aqua Ball: ¥5000 500¬One:Ball¬Uma pokébola que possui o emblema da equipe Aqua.
+Nest Ball: ¥1500 300¬One:Ball¬Boas chances de capturar pokémon fracos.
+Repeat Ball: ¥1500 300¬One:Ball¬Boas chances de capturar um pokémon que você já tenha capturado.
+Timer Ball: ¥1500 300¬One:Ball¬Quanto maior a duração da batalha, maior será a chance de capturar.
+Net Ball: ¥1500 300¬One:Ball¬Funciona melhor em pokémon do tipo Bug ou Water.
+Love Ball: ¥1500 500¬One:Ball¬Muitas chances de capturar um pokémon de sexo oposto.
+Level Ball: ¥1500 200¬One:Ball¬Quanto maior a diferença do level entre os pokémon, maior a chance de captura.
+Lure Ball: ¥1500 200¬One:Ball¬Aumenta as chances de capturar um pokémon que foi pescado.
+Dive Ball: ¥1500 300¬One:Ball¬Boas chances de capturar um pokémon debaixo d'água.
+Friend Ball: ¥1500 300¬One:Ball¬Promove a felicidade do pokémon capturado.
+Fire Stone: ¥10000 150¬One:Instant¬Evoluir pokémon.
+Water Stone: ¥10000 150¬One:Instant¬Evoluir pokémon.
+Leaf Stone: ¥10000 150¬One:Instant¬Evoluir pokémon.
+Thunderstone: ¥10000 150¬One:Instant¬Evoluir pokémon.
+Moon Stone: ¥20000 200¬One:Instant¬Evoluir pokémon.
+Sun Stone: ¥20000 200¬One:Instant¬Evoluir pokémon.
+King's Rock: ¥10000 400¬Hold¬Permite que alguns golpes do pokémon tenham a chance de fazer seu adversário recuar.
+Dragon Scale: ¥10000 300¬Hold¬Evolui algumas espécies de pokémon.
+Upgrade: ¥10000 300¬Hold¬Desenvolvido pela Silph Corporation.
+Stick: ¥10000 500¬Hold¬Aumenta a chance de crítico com Farfetch'd.
+Lucky Egg: ¥5000¬Hold¬Aumenta a EXP recebida pelo pokémon em batalhas.
+Lucky Punch: ¥10000 500¬Hold¬Aumenta a chance de crítico com Chansey/Blissey.
+Metalpowder: ¥10000 700¬Hold¬Aumenta DEF e SDEF de Ditto.
+Light Ball: ¥20000 700¬Hold¬Dobra o SATK de Pikachu.
+Thick Club: ¥25000 700¬Hold¬Dobra o ATK de Cubone/Marowak.
+Deepseascale: ¥10000 400¬Hold¬Dobra a SDEF de Clamperl.
+Deepseatooth: ¥10000 400¬Hold¬Dobra o SATK de Clamperl.
+Choice Band: ¥20000 400 ¢400¬Hold¬Aumenta a força do pokémon, forçando-o a usar o mesmo golpe.
+Brightpowder: ¥10000 300¬Hold¬Aumentam as chances de seu adversário errar um golpe.
+Lax Incense: ¥5000 250 ¢100¬Hold¬Aumentam as chances de seu adversário errar um golpe.
+Macho Brace: ¥2000 1500¬Hold¬Promove o desenvolvimento do pokémon, mas reduz a sua velocidade.
+Soul Dew: ¥5000 500¬Hold¬Aumenta o SATK e a SDEF de Latias e Latios em 50%.
+Shell Bell: ¥5000 750¬Hold¬Recupera HP equivalente a 12.5% do dano causado.
+Leftovers: ¥20000 750¬Hold¬Recupera cerca de 6% do HP total a cada turno.
+Scope Lens: ¥20000 600¬Hold¬Aumenta as chances do pokémon dar um golpe crítico no adversário.
+Quick Claw: ¥5000 500¬Hold¬Ocasionalmente permitirá que o pokémon ataque primeiro que o oponente.
+White Herb: ¢400¬One/Hold:Hold¬Recupera-se de todas as perdas de stat imediatamente.
+Liechi Berry: ¥500 400¬One/Hold:Berry¬Aumenta ATK do pokémon quando estiver em crise.
+Ganlon Berry: ¥500 400¬One/Hold:Berry¬Aumenta DEF do pokémon quando estiver em crise.
+Salac Berry: ¥500 400¬One/Hold:Berry¬Aumenta SPD do pokémon quando estiver em crise.
+Petaya Berry: ¥500 400¬One/Hold:Berry¬Aumenta SATK do pokémon quando estiver em crise.
+Apicot Berry: ¥500 400¬One/Hold:Berry¬Aumenta SDEF do pokémon quando estiver em crise.
+Lansat Berry: ¥500 400¬One/Hold:Berry¬Aumenta a chance do pokémon dar um golpe crítico quando estiver em crise.
+Starf Berry: ¥500 500¬One/Hold:Berry¬Aumenta um atributo aleatório do pokémon quando estiver em crise.
+Lum Berry: ¥500 400¬One/Hold:Berry¬Recupera-se de qualquer mudança no status imediatamente.
+Aspear Berry: ¥500 200¬One/Hold:Berry¬Recupera-se do status FREEZE imediatamente após adquiri-lo.
+Cheri Berry: ¥500 200¬One/Hold:Berry¬Recupera-se do status PARALYZ imediatamente após adquiri-lo.
+Chesto Berry: ¥500 200¬One/Hold:Berry¬Recupera-se do status SLEEP imediatamente após adquiri-lo.
+Pecha Berry: ¥500 200¬One/Hold:Berry¬Recupera-se do status POISON imediatamente após adquiri-lo.
+Rawst Berry: ¥500 200¬One/Hold:Berry¬Recupera-se do status BURN imediatamente após adquiri-lo.
+Persim Berry: ¥500 200¬One/Hold:Berry¬Recupera-se da confusão imediatamente após adquiri-la.
+Mental Herb: ¥1000 350¬One/Hold:Berry¬Recupera-se da atração imediatamente após adquiri-la.
+Black Belt: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Fighting.
+Blackglasses: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Dark.
+Charcoal: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Fire.
+Dragon Fang: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Dragon.
+Hard Stone: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Rock.
+Magnet: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Electric.
+Metal Coat: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Steel.
+Miracle Seed: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Grass.
+Mystic Water: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Water.
+Nevermeltice: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Ice.
+Poison Barb: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Poison.
+Sea Incense: ¥5000 250¬Hold¬Aumenta o dano com ataques do tipo Water.
+Sharp Beak: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Flying.
+Silk Scarf: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Normal.
+Silverpowder: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Bug.
+Soft Sand: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Ground.
+Spell Tag: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Ghost.
+Twistedspoon: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Psychic.
+Charcoal: ¥30000 250¬Hold¬Aumenta o dano com ataques do tipo Fire.
+TM01: ¥15000 400¬One:TM¬Ensina o golpe "Focus Punch" ao pokémon.
+TM02: ¥15000 400¬One:TM¬Ensina o golpe "Dragon Claw" ao pokémon.
+TM03: ¥15000 300¬One:TM¬Ensina o golpe "Water Pulse" ao pokémon.
+TM04: ¥15000 400¬One:TM¬Ensina o golpe "Calm Mind" ao pokémon.
+TM05: ¥8000 300¬One:TM¬Ensina o golpe "Roar" ao pokémon.
+TM06: ¥10000 400¬One:TM¬Ensina o golpe "Toxic" ao pokémon.
+TM07: ¥10000 300¬One:TM¬Ensina o golpe "Hail" ao pokémon.
+TM08: ¥15000 400¬One:TM¬Ensina o golpe "Bulk Up" ao pokémon.
+TM09: ¥8000 100¬One:TM¬Ensina o golpe "Bullet Seed" ao pokémon.
+TM10: ¥10000 100¬One:TM¬Ensina o golpe "Hidden Power" ao pokémon.
+TM11: ¥10000 300¬One:TM¬Ensina o golpe "Sunny Day" ao pokémon.
+TM12: ¥8000 200¬One:TM¬Ensina o golpe "Taunt" ao pokémon.
+TM13: ¥15000 400 ¢50¬One:TM¬Ensina o golpe "Ice Beam" ao pokémon.
+TM14: ¥15000 300¬One:TM¬Ensina o golpe "Blizzard" ao pokémon.
+TM15: ¥15000 300¬One:TM¬Ensina o golpe "Hyper Beam" ao pokémon.
+TM16: ¥15000 300¬One:TM¬Ensina o golpe "Light Screen" ao pokémon.
+TM17: ¥10000 200¬One:TM¬Ensina o golpe "Protect" ao pokémon.
+TM18: ¥10000 300¬One:TM¬Ensina o golpe "Rain Dance" ao pokémon.
+TM19: ¥15000 400¬One:TM¬Ensina o golpe "Giga Drain" ao pokémon.
+TM20: ¥10000 200¬One:TM¬Ensina o golpe "Safeguard" ao pokémon.
+TM21: ¥15000 300¬One:TM¬Ensina o golpe "Frustration" ao pokémon.
+TM22: ¥15000 400¬One:TM¬Ensina o golpe "Solarbeam" ao pokémon.
+TM23: ¥15000 300¬One:TM¬Ensina o golpe "Iron Tail" ao pokémon.
+TM24: ¥10000 400 ¢50¬One:TM¬Ensina o golpe "Thunderbolt" ao pokémon.
+TM25: ¥15000 300¬One:TM¬Ensina o golpe "Thunder" ao pokémon.
+TM26: ¥15000 400¬One:TM¬Ensina o golpe "Earthquake" ao pokémon.
+TM27: ¥15000 300¬One:TM¬Ensina o golpe "Return" ao pokémon.
+TM28: ¥8000 300¬One:TM¬Ensina o golpe "Dig" ao pokémon.
+TM29: ¥15000 400¬One:TM¬Ensina o golpe "Psychic" ao pokémon.
+TM30: ¥15000 400¬One:TM¬Ensina o golpe "Shadow Ball" ao pokémon.
+TM31: ¥15000 400¬One:TM¬Ensina o golpe "Brick Break" ao pokémon.
+TM32: ¥10000 300¬One:TM¬Ensina o golpe "Double Team" ao pokémon.
+TM33: ¥10000 300¬One:TM¬Ensina o golpe "Reflect" ao pokémon.
+TM34: ¥10000 300¬One:TM¬Ensina o golpe "Shock Wave" ao pokémon.
+TM35: ¥15000 400 ¢50¬One:TM¬Ensina o golpe "Flamethrower" ao pokémon.
+TM36: ¥15000 400¬One:TM¬Ensina o golpe "Sludge Bomb" ao pokémon.
+TM37: ¥10000 300¬One:TM¬Ensina o golpe "Sandstorm" ao pokémon.
+TM38: ¥15000 300¬One:TM¬Ensina o golpe "Fire Blast" ao pokémon.
+TM39: ¥10000 200¬One:TM¬Ensina o golpe "Rock Tomb" ao pokémon.
+TM40: ¥15000 300¬One:TM¬Ensina o golpe "Aerial Ace" ao pokémon.
+TM41: ¥8000 200¬One:TM¬Ensina o golpe "Torment" ao pokémon.
+TM42: ¥15000 200¬One:TM¬Ensina o golpe "Facade" ao pokémon.
+TM43: ¥10000 200¬One:TM¬Ensina o golpe "Secret Power" ao pokémon.
+TM44: ¥15000 400¬One:TM¬Ensina o golpe "Rest" ao pokémon.
+TM45: ¥15000 200¬One:TM¬Ensina o golpe "Attract" ao pokémon.
+TM46: ¥8000 100¬One:TM¬Ensina o golpe "Thief" ao pokémon.
+TM47: ¥15000 200¬One:TM¬Ensina o golpe "Steel Wing" ao pokémon.
+TM48: ¥15000 100¬One:TM¬Ensina o golpe "Skill Swap" ao pokémon.
+TM49: ¥8000 100¬One:TM¬Ensina o golpe "Snatch" ao pokémon.
+TM50: ¥10000 300¬One:TM¬Ensina o golpe "Overheat" ao pokémon.
+HM01: 0¬Mult:HM¬Ensina a habilidade "Cut" ao pokémon.
+HM02: 0¬Mult:HM¬Ensina a habilidade "Fly" ao pokémon.
+HM03: 0¬Mult:HM¬Ensina a habilidade "Surf" ao pokémon.
+HM04: 0¬Mult:HM¬Ensina a habilidade "Strength" ao pokémon.
+HM05: 0¬Mult:HM¬Ensina a habilidade "Flash" ao pokémon.
+HM06: 0¬Mult:HM¬Ensina a habilidade "Rock Smash" ao pokémon.
+HM07: 0¬Mult:HM¬Ensina a habilidade "Waterfall" ao pokémon.
+HM08: 0¬Mult:HM¬Ensina a habilidade "Dive" ao pokémon.
+MT01: ¥10000 ¢200¬One:MT¬Ensina a técnica "Double-edge" ao pokémon.
+MT02: ¥10000 ¢200¬One:MT¬Ensina a técnica "Mimic" ao pokémon.
+MT03: ¥10000 ¢200¬One:MT¬Ensina a técnica "Substitute" ao pokémon.
+MT04: ¥10000 ¢200¬One:MT¬Ensina a técnica "Body Slam" ao pokémon.
+MT05: ¥10000 ¢200¬One:MT¬Ensina a técnica "Thunder Wave" ao pokémon.
+MT06: ¥10000 ¢200¬One:MT¬Ensina a técnica "Mega Punch" ao pokémon.
+MT07: ¥10000 ¢200¬One:MT¬Ensina a técnica "Mega Kick" ao pokémon.
+MT08: ¥10000 ¢100¬One:MT¬Ensina a técnica "Metronome" ao pokémon.
+MT09: ¥10000 ¢200¬One:MT¬Ensina a técnica "Swords Dance" ao pokémon.
+MT10: ¥10000 ¢200¬One:MT¬Ensina a técnica "Dream Eater" ao pokémon.
+MT11: ¥10000 ¢200¬One:MT¬Ensina a técnica "Seismic Toss" ao pokémon.
+MT12: ¥10000 ¢200¬One:MT¬Ensina a técnica "Counter" ao pokémon.
+MT13: ¥10000 ¢200¬One:MT¬Ensina a técnica "Softboiled" ao pokémon.
+MT14: ¥10000 ¢200¬One:MT¬Ensina a técnica "Rock Slide" ao pokémon.
+MT15: ¥10000 ¢200¬One:MT¬Ensina a técnica "Explosion" ao pokémon.
+MT16: ¥10000 ¢200¬One:MT¬Ensina a técnica "Sleep Talk" ao pokémon.
+MT17: ¥10000 ¢100¬One:MT¬Ensina a técnica "Snore" ao pokémon.
+MT18: ¥10000 ¢200¬One:MT¬Ensina a técnica "Swagger" ao pokémon.
+MT19: ¥10000 ¢100¬One:MT¬Ensina a técnica "Endure" ao pokémon.
+MT20: ¥10000 ¢200¬One:MT¬Ensina a técnica "Psych Up" ao pokémon.
+MT21: ¥10000 ¢100¬One:MT¬Ensina a técnica "Defense Curl" ao pokémon.
+MT22: ¥10000 ¢100¬One:MT¬Ensina a técnica "Dynamicpunch" ao pokémon.
+MT23: ¥10000 ¢150¬One:MT¬Ensina a técnica "Fire Punch" ao pokémon.
+MT24: ¥10000 ¢150¬One:MT¬Ensina a técnica "Thunderpunch" ao pokémon.
+MT25: ¥10000 ¢150¬One:MT¬Ensina a técnica "Ice Punch" ao pokémon.
+MT26: ¥10000 ¢200¬One:MT¬Ensina a técnica "Icy Wind" ao pokémon.
+MT27: ¥10000 ¢100¬One:MT¬Ensina a técnica "Fury Cutter" ao pokémon.
+MT28: ¥10000 ¢100¬One:MT¬Ensina a técnica "Rollout" ao pokémon.
+MT29: ¥10000 ¢200¬One:MT¬Ensina a técnica "Swift" ao pokémon.
+MT30: ¥10000 ¢100¬One:MT¬Ensina a técnica "Mud-Slap" ao pokémon.

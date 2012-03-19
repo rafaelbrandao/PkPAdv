@@ -1,0 +1,164 @@
+Bulbasaur Charm:Curse:Light Screen:Magical Leaf:Petal Dance:Grasswhistle:Safeguard:Skull Bash
+Charmander Ancientpower:Beat Up:Belly Drum:Bite:Dragon Dance:Outrage:Rock Slide:Swords Dance
+Squirtle Flail:Foresight:Haze:Mirror Coat:Mist:Mud Sport:Refresh:Yawn
+Pidgey Air Cutter:Faint Attack:Foresight:Pursuit:Steel Wing
+Rattata Bite:Counter:Flame Wheel:Fury Swipes:Uproar:Reversal:Screech:Swagger
+Spearow Faint Attack:False Swipe:Astonish:Agility:Scary Face:Sky Attack:Tri Attack
+Ekans Beat Up:Poison Fang:Pursuit:Slam:Spite
+Sandshrew Crush Claw:Counter:Flail:Metal Claw:Rapid Spin:Rock Slide:Safeguard:Swords Dance
+Nidoranf Beat Up:Charm:Counter:Disable:Focus Energy:Supersonic:Take Down
+Nidoranm Amnesia:Beat Up:Confusion:Counter:Disable:Supersonic:Take Down
+Vulpix Disable:Faint Attack:Flail:Heat Wave:Howl:Hypnosis:Psych Up:Spite
+Zubat Curse:Faint Attack:Gust:Pursuit:Agility:Whirlwind
+Oddish Charm:Flail:Razor Leaf:Ingrain:Swords Dance:Synthesis
+Paras Counter:False Swipe:Flail:Light Screen:Psybeam:Pursuit:Screech:Sweet Scent
+Venonat Baton Pass:Giga Drain:Screech:Signal Beam
+Diglett Ancientpower:Beat Up:Faint Attack:Uproar:Pursuit:Rock Slide:Screech
+Meowth Amnesia:Assist:Charm:Hypnosis:Psych Up:Spite
+Psyduck Cross Chop:Foresight:Future Sight:Hypnosis:Light Screen:Psybeam:Psychic:Refresh
+Mankey Beat Up:Counter:Smellingsalt:Foresight:Meditate:Revenge:Reversal:Rock Slide
+Growlithe Body Slam:Crunch:Fire Spin:Heat Wave:Howl:Safeguard:Thrash
+Poliwag Bubblebeam:Haze:Ice Ball:Mind Reader:Mist:Splash:Water Sport
+Abra Barrier:Knock Off:Encore:Fire Punch:Ice Punch:Thunderpunch
+Machop Counter:Encore:Smellingsalt:Light Screen:Meditate:Rock Slide:Rolling Kick
+Bellsprout Encore:Leech Life:Magical Leaf:Reflect:Ingrain:Swords Dance:Synthesis
+Tentacool Aurora Beam:Confuse Ray:Haze:Mirror Coat:Rapid Spin:Safeguard
+Geodude Block:Mega Punch:Rock Slide
+Ponyta Charm:Double Kick:Double-edge:Flame Wheel:Hypnosis:Thrash
+Slowpoke Belly Drum:Future Sight:Mud Sport:Safeguard:Sleep Talk:Snore:Stomp
+Farfetch'd Curse:Featherdance:Flail:Foresight:Gust:Mirror Move:Agility:Steel Wing
+Doduo Faint Attack:Flail:Haze:Agility:Endeavor:Supersonic
+Seel Fake Out:Disable:Encore:Horn Drill:Icicle Spear:Lick:Perish Song:Slam
+Grimer Curse:Explosion:Haze:Lick:Mean Look:Imprison:Shadow Punch
+Shellder Barrier:Bubblebeam:Icicle Spear:Rapid Spin:Screech:Take Down
+Gastly Explosion:Astonish:Haze:Grudge:Perish Song:Psywave:Will-o-wisp
+Onix Block:Explosion:Flail:Rock Slide
+Drowzee Barrier:Assist:Fire Punch:Ice Punch:Thunderpunch:Role Play
+Krabby Amnesia:Dig:Knock Off:Flail:Haze:Slam:Swords Dance
+Exeggcute Ancientpower:Curse:Moonlight:Psych Up:Reflect:Ingrain:Synthesis
+Cubone Ancientpower:Belly Drum:Perish Song:Rock Slide:Screech:Skull Bash:Swords Dance
+Lickitung Belly Drum:Body Slam:Curse:Smellingsalt:Magnitude:Sleep Talk:Snore:Substitute
+Koffing Destiny Bond:Pain Split:Psybeam:Psywave:Screech:Will-o-wisp
+Rhyhorn Crush Claw:Counter:Crunch:Curse:Magnitude:Reversal:Rock Slide:Swords Dance
+Chansey Aromatherapy:Heal Bell:Metronome:Present:Substitute
+Tangela Amnesia:Confusion:Flail:Leech Seed:Mega Drain:Nature Power:Reflect
+Kangaskhan Crush Claw:Counter:Disable:Focus Energy:Foresight:Safeguard:Stomp:Substitute
+Horsea Aurora Beam:Disable:Dragon Rage:Dragonbreath:Flail:Octazooka:Splash
+Goldeen Haze:Hydro Pump:Mud Sport:Psybeam:Sleep Talk
+Mr.mime Fake Out:Future Sight:Hypnosis:Mimic:Psych Up:Trick
+Scyther Baton Pass:Counter:Endure:Light Screen:Razor Wind:Reversal:Safeguard:Silver Wind
+Pinsir Faint Attack:False Swipe:Flail:Fury Attack
+Lapras Curse:Dragon Dance:Foresight:Horn Drill:Refresh:Sleep Talk:Substitute:Tickle
+Eevee Charm:Curse:Endure:Flail:Tickle:Wish
+Omanyte Aurora Beam:Bubblebeam:Haze:Rock Slide:Slam:Spikes:Supersonic
+Kabuto Aurora Beam:Bubblebeam:Confuse Ray:Dig:Knock Off:Flail:Rapid Spin
+Aerodactyl Curse:Dragonbreath:Foresight:Pursuit:Steel Wing:Whirlwind
+Snorlax Charm:Curse:Double-edge:Fissure:Lick:Substitute
+Dratini Dragon Dance:Dragonbreath:Haze:Light Screen:Mist:Supersonic
+Chikorita Ancientpower:Counter:Flail:Leech Seed:Nature Power:Grasswhistle:Ingrain:Vine Whip
+Cyndaquil Crush Claw:Covet:Foresight:Fury Swipes:Howl:Agility:Reversal:Thrash
+Totodile Ancientpower:Crunch:Dragon Claw:Hydro Pump:Mud Sport:Rock Slide:Thrash:Water Sport
+Sentret Assist:Double-edge:Focus Energy:Pursuit:Reversal:Slash:Substitute:Trick
+Hoothoot Faint Attack:Featherdance:Mirror Move:Sky Attack:Supersonic:Whirlwind:Wing Attack
+Ledyba Bide:Psybeam:Silver Wind
+Spinarak Baton Pass:Disable:Psybeam:Pursuit:Signal Beam:Sonicboom
+Chinchou Amnesia:Flail:Screech
+Pichu Bide:Doubleslap:Charge:Encore:Present:Reversal:Wish
+Cleffa Amnesia:Belly Drum:Metronome:Mimic:Present:Splash:Substitute:Wish
+Igglybuff Fake Tears:Faint Attack:Perish Song:Present:Wish
+Togepi Foresight:Future Sight:Mirror Move:Peck:Present:Psych Up:Substitute
+Natu Drill Peck:Faint Attack:Featherdance:Haze:Psych Up:Agility:Refresh:Steel Wing
+Mareep Body Slam:Odor Sleuth:Charge:Reflect:Safeguard:Screech:Take Down
+Marill Amnesia:Belly Drum:Future Sight:Light Screen:Perish Song:Present:Substitute:Supersonic
+Sudowoodo Selfdestruct
+Hoppip Amnesia:Confusion:Double-edge:Encore:Helping Hand:Psych Up:Reflect
+Aipom Agility:Beat Up:Counter:Doubleslap:Pursuit:Screech:Slam:Spite
+Sunkern Curse:Encore:Helping Hand:Leech Seed:Nature Power:Grasswhistle
+Yanma Leech Life:Reversal:Signal Beam:Silver Wind:Whirlwind
+Wooper Ancientpower:Body Slam:Curse:Mud Sport:Spit Up:Safeguard:Stockpile:Swallow
+Murkrow Confuse Ray:Drill Peck:Featherdance:Mirror Move:Perish Song:Sky Attack:Whirlwind:Wing Attack
+Misdreavus Destiny Bond:Psych Up:Screech:Imprison
+Girafarig Amnesia:Beat Up:Foresight:Future Sight:Magic Coat:Psych Up:Take Down:Wish
+Pineco Counter:Flail:Pin Missile:Reflect:Sand Tomb:Swift
+Dunsparce Ancientpower:Bide:Bite:Curse:Astonish:Headbutt:Rock Slide
+Gligar Counter:Metal Claw:Razor Wind:Sand Tomb:Wing Attack
+Snubbull Crunch:Smellingsalt:Faint Attack:Heal Bell:Metronome:Present:Reflect:Snore
+Qwilfish Bubblebeam:Flail:Astonish:Haze:Supersonic
+Shuckle Sweet Scent
+Heracross Bide:False Swipe:Flail:Harden
+Sneasel Bite:Crush Claw:Fake Out:Counter:Foresight:Reflect:Spite
+Teddiursa Counter:Fake Tears:Crunch:Metal Claw:Seismic Toss:Sleep Talk:Take Down:Yawn
+Slugma Acid Armor:Heat Wave
+Swinub Ancientpower:Bite:Body Slam:Double-edge:Icicle Spear:Mud Shot:Rock Slide:Take Down
+Corsola Amnesia:Barrier:Confuse Ray:Icicle Spear:Mist:Rock Slide:Ingrain:Screech
+Remoraid Aurora Beam:Haze:Octazooka:Rock Blast:Screech:Supersonic:Swallow:Thunder Wave
+Delibird Aurora Beam:Future Sight:Ice Ball:Agility:Rapid Spin:Splash
+Mantine Haze:Hydro Pump:Mud Sport:Rock Slide:Slam:Twister
+Skarmory Curse:Drill Peck:Pursuit:Sky Attack:Whirlwind
+Houndour Beat Up:Counter:Fire Spin:Pursuit:Rage:Reversal:Spite:Will-o-wisp
+Phanpy Ancientpower:Body Slam:Counter:Fissure:Focus Energy:Snore
+Stantler Bite:Disable:Psych Up:Spite:Extrasensory:Swagger
+Tyrogue Helping Hand:Hi Jump Kick:Mach Punch:Mind Reader:Rapid Spin
+Smoochum Fake Out:Ice Punch:Meditate:Psych Up:Wish
+Elekid Barrier:Cross Chop:Fire Punch:Ice Punch:Karate Chop:Meditate:Rolling Kick
+Magby Barrier:Cross Chop:Karate Chop:Mega Punch:Screech:Thunderpunch
+Miltank Curse:Endure:Helping Hand:Present:Psych Up:Reversal:Seismic Toss:Sleep Talk
+Larvitar Ancientpower:Curse:Dragon Dance:Focus Energy:Outrage:Pursuit:Stomp
+Treecko Crush Claw:Crunch:Dragonbreath:Leech Seed:Mud Sport:Endeavor
+Torchic Counter:Smellingsalt:Endure:Reversal:Rock Slide:Swagger
+Mudkip Curse:Ice Ball:Uproar:Mirror Coat:Refresh:Stomp
+Poochyena Covet:Astonish:Leer:Poison Fang:Yawn
+Zigzagoon Charm:Pursuit:Substitute:Tickle:Trick
+Lotad Flail:Leech Seed:Razor Leaf:Sweet Scent:Synthesis:Water Gun
+Seedot Amnesia:False Swipe:Leech Seed:Agility:Razor Wind:Take Down
+Taillow Mirror Move:Pursuit:Rage:Refresh:Sky Attack:Supersonic
+Wingull Agility:Gust:Mist:Twister:Water Sport
+Ralts Destiny Bond:Disable:Mean Look:Memento:Will-o-wisp
+Surskit Foresight:Hydro Pump:Mind Reader:Mud Shot:Psybeam
+Shroomish Charm:Fake Tears:False Swipe:Helping Hand:Swagger
+Slakoth Body Slam:Crush Claw:Curse:Pursuit:Slash:Sleep Talk:Snore
+Nincada Endure:Faint Attack:Gust:Silver Wind
+Whismur Smellingsalt:Snore:Extrasensory:Swagger:Take Down
+Makuhita Counter:Cross Chop:Detect:Dynamicpunch:Faint Attack:Foresight:Helping Hand:Revenge
+Azurill Encore:Refresh:Sing:Slam:Tickle
+Nosepass Explosion:Magnitude:Rollout
+Skitty Baton Pass:Fake Tears:Helping Hand:Uproar:Psych Up:Substitute:Tickle:Wish
+Sableye Moonlight:Psych Up:Recover
+Mawile Ancientpower:False Swipe:Poison Fang:Psych Up:Swords Dance:Tickle
+Aron Body Slam:Smellingsalt:Endeavor:Stomp
+Meditite Baton Pass:Fake Out:Dynamicpunch:Fire Punch:Foresight:Ice Punch:Thunderpunch
+Electrike Crunch:Curse:Headbutt:Uproar:Swift
+Plusle Substitute:Wish
+Minun Substitute:Wish
+Volbeat Baton Pass:Silver Wind:Trick
+Roselia Cotton Spore:Pin Missile:Spikes:Synthesis
+Gulpin Acid Armor:Dream Eater:Pain Split:Smog
+Carvanha Double-edge:Hydro Pump:Thrash
+Wailmer Curse:Double-edge:Fissure:Sleep Talk:Snore:Swagger:Thrash:Tickle
+Numel Body Slam:Defense Curl:Howl:Rollout:Scary Face:Stomp
+Torkoal Endure:Eruption:Sleep Talk:Yawn
+Spoink Future Sight:Substitute:Extrasensory:Trick
+Spinda Baton Pass:Assist:Disable:Encore:Smellingsalt:Rock Slide:Trick:Wish
+Trapinch Focus Energy:Gust:Agility
+Cacnea Acid:Counter:Teeter Dance:Dynamicpunch:Grasswhistle
+Swablu Agility:Haze:Pursuit:Rage
+Zangoose Counter:Curse:Double Kick:Flail:Razor Wind:Roar
+Seviper Body Slam:Spit Up:Stockpile:Swallow
+Barboach Spark:Thrash:Whirlpool
+Corphish Ancientpower:Body Slam:Mud Sport:Endeavor
+Lileep Barrier:Mirror Coat:Recover:Rock Slide
+Cradily Knock Off:Rapid Spin:Rock Slide:Swords Dance
+Feebas Confuse Ray:Dragonbreath:Hypnosis:Light Screen:Mirror Coat:Mud Sport
+Castform Future Sight:Psych Up
+Kecleon Disable:Magic Coat:Trick
+Shuppet Destiny Bond:Disable:Foresight:Astonish:Imprison
+Duskull Destiny Bond:Faint Attack:Grudge:Pain Split:Memento:Imprison
+Tropius Headbutt:Leech Seed:Nature Power:Razor Wind:Slam
+Chimecho Curse:Disable:Dream Eater:Hypnosis
+Absol Baton Pass:Curse:Double-edge:Faint Attack:Magic Coat:Substitute
+Snorunt Block:Spikes
+Spheal Curse:Fissure:Spit Up:Rock Slide:Stockpile:Swallow:Water Sport:Yawn
+Clamperl Barrier:Body Slam:Confuse Ray:Mud Sport:Refresh:Supersonic
+Relicanth Amnesia:Magnitude:Rock Slide:Skull Bash:Sleep Talk:Water Sport
+Luvdisc Mud Sport:Splash:Supersonic:Water Sport
+Bagon Dragon Rage:Dragon Dance:Hydro Pump:Thrash:Twister

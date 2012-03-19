@@ -1,0 +1,21 @@
+Mostrar pokémon no '.Dados'
+Mostrar dinheiro no '.Dados'
+Mostrar itens no '.Dados'
+Mostrar email no '.Dados'
+Mostrar milhagem no '.Dados'
+Mostrar posição no top no '.Dados'
+Mostrar nível de acesso no '.Dados'
+Mostrar localização no '.Dados'
+Mostrar insígneas no '.Dados'
+Mostrar pokedex no '.Dados'
+Mostrar tempo online no '.Dados'
+Mostrar número de ofertas no '.Dados'
+Mostrar skin no '.Dados'
+Permitir a visualização de dados dos seus pokémon
+Aceitar automaticamente batalhas com outros jogadores
+Permitir a visualização de sua pontuação por outros jogadores
+Informar minha posição no top ao entrar no canal
+Exibir meu histórico no '.Dados'
+Ignorar dicas ao solicitar ajuda especializada
+Ignorar MOTD ao conectar (não recomendável)
+Ignorar batalhas aleatórias enquanto aguarda outros treinadores

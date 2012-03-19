@@ -1,0 +1,9 @@
+$cc $+ $arrange(.Criar <Pokémon>,160,%spc) $ct $+ - Cria uma batalha com o pokémon selecionado;
+$cc $+ $arrange(.Entrar (<ID> <Pokémon>),160,%spc) $ct $+ - Entra na batalha selecionada ou na batalha anterior;
+$cc $+ $arrange(.Golpe <Ataque>,160,%spc) $ct $+ - Durante a batalha, ataca com o golpe selecionado;
+$cc $+ $arrange(.Alvo (<Número>),160,%spc) $ct $+ - Exibe e seleciona um alvo para o pokémon;
+$cc $+ $arrange(.Desistir,160,%spc) $ct $+ - Desiste de uma batalha criada anteriormente;
+$cc $+ $arrange(.Assistir <ID/Nick>,160,%spc) $ct $+ - Assiste à batalha selecionada;
+$cc $+ $arrange(.Listar,160,%spc) $ct $+ - Lista todas as lutas em andamento ou em modo de espera;
+$cc $+ $arrange(.Trocar (<Pokémon>),160,%spc) $ct $+ - Troca um pokémon durante a batalha, se possível;
+$cc $+ $arrange(.Fugir,160,%spc) $ct $+ - Foge da batalha com seu pokémon, se possível;

@@ -1,0 +1,354 @@
+Absorb Grass:20:100:20:OneEnemy:No:0
+Acid Poison:40:100:30:BothEnemy:No:0
+Acid Armor Poison:N/A:N/A:40:Self:No:1
+Aerial Ace Flying:60:N/A:20:OneEnemy:Yes:0
+Aeroblast Flying:100:95:5:OneEnemy:No:0
+Agility Psychic:N/A:N/A:30:Self:No:1
+Air Cutter Flying:55:95:25:BothEnemy:No:0
+Amnesia Psychic:N/A:N/A:20:Self:No:1
+Ancientpower Rock:60:100:5:OneEnemy:Yes:0
+Arm Thrust Fighting:15:100:20:OneEnemy:Yes:0
+Aromatherapy Grass:N/A:N/A:5:Team:No:1
+Assist Normal:N/A:100:20:N/A:No:0
+Astonish Ghost:30:100:15:OneEnemy:Yes:0
+Attract Normal:N/A:100:15:OneEnemy:No:1
+Aurora Beam Ice:65:100:20:OneEnemy:No:0
+Barrage Normal:15:85:20:OneEnemy:No:0
+Barrier Psychic:N/A:N/A:30:Self:No:1
+Baton Pass Normal:N/A:N/A:40:Self:No:1
+Beat Up Dark:10:100:10:OneEnemy:No:0
+Belly Drum Normal:N/A:N/A:10:Self:No:1
+Bide Normal:N/A:100:10:OneEnemy:Yes:1
+Bind Normal:15:75:20:OneEnemy:Yes:0
+Bite Dark:60:100:25:OneEnemy:Yes:0
+Blast Burn Fire:150:90:5:OneEnemy:No:0
+Blaze Kick Fire:85:90:10:OneEnemy:Yes:0
+Blizzard Ice:120:70:5:BothEnemy:No:0
+Block Normal:N/A:N/A:5:OneEnemy:No:1
+Body Slam Normal:85:100:15:OneEnemy:Yes:0
+Bone Club Ground:65:85:20:OneEnemy:No:0
+Bone Rush Ground:25:80:10:OneEnemy:No:0
+Bonemerang Ground:50:90:10:OneEnemy:No:0
+Bounce Flying:85:85:5:OneEnemy:Yes:0
+Brick Break Fighting:75:100:15:OneEnemy:No:0
+Bubble Water:20:100:30:BothEnemy:No:0
+Bubblebeam Water:65:100:20:OneEnemy:No:0
+Bulk Up Fighting:N/A:N/A:20:Self:No:1
+Bullet Seed Grass:10:100:30:OneEnemy:No:0
+Calm Mind Psychic:N/A:N/A:20:Self:No:1
+Camouflage Normal:N/A:100:20:Self:No:1
+Charge Electric:N/A:N/A:20:Self:No:1
+Charm Normal:N/A:100:20:OneEnemy:No:1
+Clamp Water:35:75:10:OneEnemy:Yes:0
+Comet Punch Normal:18:85:15:OneEnemy:Yes:0
+Confuse Ray Ghost:N/A:100:10:OneEnemy:No:1
+Confusion Psychic:50:100:25:OneEnemy:No:0
+Constrict Normal:10:100:35:OneEnemy:Yes:0
+Conversion Normal:N/A:N/A:30:Self:No:1
+Conversion2 Normal:N/A:100:30:Self:No:1
+Cosmic Power Normal:N/A:N/A:20:Self:No:1
+Cotton Spore Grass:N/A:85:40:OneEnemy:No:1
+Counter Fighting:N/A:100:20:OneEnemy:Yes:1
+Covet Normal:40:100:40:OneEnemy:No:0
+Crabhammer Water:90:85:10:OneEnemy:Yes:0
+Cross Chop Fighting:100:80:5:OneEnemy:Yes:0
+Crunch Dark:80:100:15:OneEnemy:Yes:0
+Crush Claw Normal:75:95:10:OneEnemy:Yes:0
+Curse Ghost:N/A:N/A:10:Self:No:1
+Cut Normal:50:95:30:OneEnemy:Yes:0
+Defense Curl Normal:N/A:N/A:40:Self:No:1
+Destiny Bond Ghost:N/A:N/A:5:Self:No:1
+Detect Fighting:N/A:N/A:5:Self:No:1
+Dig Ground:60:100:10:OneEnemy:Yes:0
+Disable Normal:N/A:55:20:OneEnemy:No:1
+Dive Water:60:100:10:OneEnemy:Yes:0
+Dizzy Punch Normal:70:100:10:OneEnemy:Yes:0
+Doom Desire Steel:120:85:5:OneEnemy:No:1
+Double Kick Fighting:30:100:30:OneEnemy:Yes:0
+Double Team Normal:N/A:N/A:15:Self:No:1
+Double-Edge Normal:120:100:15:OneEnemy:Yes:0
+Doubleslap Normal:15:85:10:OneEnemy:Yes:0
+Dragon Claw Dragon:80:100:15:OneEnemy:Yes:0
+Dragon Dance Dragon:N/A:N/A:20:Self:No:1
+Dragonbreath Dragon:60:100:20:OneEnemy:No:0
+Dragon Rage Dragon:N/A:100:10:OneEnemy:No:0
+Dream Eater Psychic:100:100:15:OneEnemy:No:0
+Drill Peck Flying:80:100:20:OneEnemy:Yes:0
+Dynamicpunch Fighting:100:50:5:OneEnemy:Yes:0
+Earthquake Ground:100:100:10:All:No:0
+Egg Bomb Normal:100:75:10:OneEnemy:No:0
+Ember Fire:40:100:25:OneEnemy:No:0
+Encore Normal:N/A:100:5:OneEnemy:No:1
+Endeavor Normal:N/A:100:5:OneEnemy:Yes:0
+Endure Normal:N/A:N/A:10:Self:No:1
+Eruption Fire:150:100:5:BothEnemy:No:0
+Explosion Normal:250:100:5:All:No:0
+Extrasensory Psychic:80:100:30:OneEnemy:Yes:0
+Extremespeed Normal:80:100:5:OneEnemy:Yes:0
+Facade Normal:70:100:20:OneEnemy:Yes:0
+Faint Attack Dark:60:N/A:20:OneEnemy:No:0
+Fake Out Normal:40:100:10:OneEnemy:No:0
+Fake Tears Dark:N/A:100:20:OneEnemy:No:1
+False Swipe Normal:40:100:40:OneEnemy:Yes:0
+Featherdance Flying:N/A:100:15:OneEnemy:No:1
+Fire Blast Fire:120:85:5:OneEnemy:No:0
+Fire Punch Fire:75:100:15:OneEnemy:Yes:0
+Fire Spin Fire:15:100:15:OneEnemy:No:0
+Fissure Ground:N/A:30:5:OneEnemy:No:0
+Flail Normal:N/A:100:15:OneEnemy:No:0
+Flame Wheel Fire:60:100:25:OneEnemy:No:0
+Flamethrower Fire:95:100:15:OneEnemy:No:0
+Flash Normal:N/A:70:20:OneEnemy:No:1
+Flatter Dark:N/A:100:15:OneEnemy:No:1
+Fly Flying:70:95:15:OneEnemy:Yes:0
+Focus Energy Normal:N/A:N/A:30:Self:No:1
+Focus Punch Fighting:150:100:20:OneEnemy:Yes:0
+Follow Me Normal:N/A:100:20:Self:No:1
+Foresight Normal:N/A:100:40:OneEnemy:No:1
+Frenzy Plant Grass:150:90:5:OneEnemy:No:0
+Frustration Normal:N/A:100:20:OneEnemy:Yes:0
+Fury Attack Normal:15:85:20:OneEnemy:Yes:0
+Fury Cutter Bug:10:95:20:OneEnemy:Yes:0
+Fury Swipes Normal:18:80:15:OneEnemy:Yes:0
+Future Sight Psychic:80:90:15:OneEnemy:No:1
+Giga Drain Grass:60:100:5:OneEnemy:No:0
+Glare Normal:N/A:75:30:OneEnemy:No:1
+Grasswhistle Grass:N/A:55:15:OneEnemy:No:1
+Growl Normal:N/A:100:40:BothEnemy:No:1
+Growth Normal:N/A:N/A:40:Self:No:1
+Grudge Ghost:N/A:100:5:Self:No:1
+Guillotine Normal:N/A:30:5:OneEnemy:Yes:0
+Gust Flying:40:100:35:OneEnemy:No:0
+Hail Ice:N/A:N/A:10:Self:No:1
+Harden Normal:N/A:N/A:30:Self:No:1
+Haze Ice:N/A:N/A:30:Self:No:1
+Headbutt Normal:70:100:15:OneEnemy:Yes:0
+Heal Bell Normal:N/A:N/A:5:Team:No:1
+Heat Wave Fire:100:90:10:BothEnemy:No:0
+Helping Hand Normal:N/A:100:20:Ally:No:1
+Hi Jump Kick Fighting:85:90:20:OneEnemy:Yes:0
+Hidden Power Normal:N/A:100:15:OneEnemy:No:0
+Horn Attack Normal:65:100:25:OneEnemy:Yes:0
+Horn Drill Normal:N/A:30:5:OneEnemy:Yes:0
+Howl Normal:N/A:N/A:40:Self:No:1
+Hydro Cannon Water:150:100:5:OneEnemy:No:0
+Hydro Pump Water:120:80:5:OneEnemy:No:0
+Hyper Beam Normal:150:90:5:OneEnemy:No:0
+Hyper Fang Normal:80:90:15:OneEnemy:Yes:0
+Hyper Voice Normal:90:100:10:BothEnemy:No:0
+Hypnosis Psychic:N/A:60:20:OneEnemy:No:1
+Ice Ball Ice:30:90:20:OneEnemy:Yes:0
+Ice Beam Ice:95:100:10:OneEnemy:No:0
+Ice Punch Ice:75:100:15:OneEnemy:Yes:0
+Icicle Spear Ice:10:100:30:OneEnemy:No:0
+Icy Wind Ice:55:95:15:BothEnemy:No:0
+Imprison Psychic:N/A:100:15:OneEnemy:No:1
+Ingrain Grass:N/A:N/A:20:Self:No:1
+Iron Defense Steel:N/A:N/A:15:Self:No:1
+Iron Tail Steel:100:75:15:OneEnemy:Yes:0
+Jump Kick Fighting:70:95:25:OneEnemy:Yes:0
+Karate Chop Fighting:50:100:25:OneEnemy:Yes:0
+Kinesis Psychic:N/A:80:15:OneEnemy:No:1
+Knock Off Dark:20:100:20:OneEnemy:Yes:0
+Leaf Blade Grass:70:100:15:OneEnemy:Yes:0
+Leech Life Bug:20:100:15:OneEnemy:Yes:0
+Leech Seed Grass:N/A:90:10:OneEnemy:No:1
+Leer Normal:N/A:100:30:BothEnemy:No:1
+Lick Ghost:20:100:20:OneEnemy:Yes:0
+Light Screen Psychic:N/A:N/A:30:Self:No:1
+Lock-On Normal:N/A:100:5:OneEnemy:No:1
+Lovely Kiss Normal:N/A:75:10:OneEnemy:No:1
+Low Kick Fighting:N/A:100:20:OneEnemy:Yes:0
+Luster Purge Psychic:70:100:5:OneEnemy:No:0
+Mach Punch Fighting:40:100:30:OneEnemy:Yes:0
+Magic Coat Psychic:N/A:N/A:15:Self:No:1
+Magical Leaf Grass:60:N/A:20:OneEnemy:No:0
+Magnitude Ground:N/A:100:30:All:No:0
+Mean Look Normal:N/A:100:5:OneEnemy:No:1
+Meditate Psychic:N/A:N/A:40:Self:No:1
+Mega Drain Grass:40:100:10:OneEnemy:No:0
+Mega Kick Normal:120:75:5:OneEnemy:Yes:0
+Mega Punch Normal:80:85:20:OneEnemy:Yes:0
+Megahorn Bug:120:85:10:OneEnemy:Yes:0
+Memento Dark:N/A:100:10:OneEnemy:No:1
+Metal Claw Steel:50:95:35:OneEnemy:Yes:0
+Metal Sound Steel:N/A:85:40:OneEnemy:No:1
+Meteor Mash Steel:100:85:10:OneEnemy:Yes:0
+Metronome Normal:N/A:N/A:10:N/A:No:0
+Milk Drink Normal:N/A:N/A:10:Self:No:1
+Mimic Normal:N/A:100:10:OneEnemy:No:1
+Mind Reader Normal:N/A:100:5:OneEnemy:No:1
+Minimize Normal:N/A:N/A:20:Self:No:1
+Mirror Coat Psychic:N/A:100:20:Self:No:1
+Mirror Move Flying:N/A:N/A:20:N/A:No:1
+Mist Ice:N/A:N/A:30:Self:No:1
+Mist Ball Psychic:70:100:5:OneEnemy:No:0
+Moonlight Normal:N/A:N/A:5:Self:No:1
+Morning Sun Normal:N/A:N/A:5:Self:No:1
+Mud Shot Ground:55:95:15:OneEnemy:No:0
+Mud Sport Ground:N/A:N/A:15:Self:No:1
+Muddy Water Water:95:85:10:BothEnemy:No:0
+Mud-Slap Ground:20:100:10:OneEnemy:No:0
+Nature Power Normal:N/A:95:20:N/A:No:1
+Needle Arm Grass:60:100:15:OneEnemy:Yes:0
+Night Shade Ghost:N/A:100:15:OneEnemy:No:0
+Nightmare Ghost:N/A:100:15:OneEnemy:No:1
+Octazooka Water:65:85:10:OneEnemy:No:0
+Odor Sleuth Normal:N/A:100:40:OneEnemy:No:1
+Outrage Dragon:90:100:15:RandomEnemy:Yes:0
+Overheat Fire:140:90:5:OneEnemy:Yes:0
+Pain Split Normal:N/A:100:20:OneEnemy:No:0
+Pay Day Normal:40:100:20:OneEnemy:No:0
+Peck Flying:35:100:35:OneEnemy:Yes:0
+Perish Song Normal:N/A:N/A:5:Self:No:1
+Petal Dance Grass:70:100:20:RandomEnemy:Yes:0
+Pin Missile Bug:14:85:20:OneEnemy:No:0
+Poison Fang Poison:50:100:15:OneEnemy:Yes:0
+Poison Gas Poison:N/A:55:40:OneEnemy:No:1
+Poison Sting Poison:15:100:35:OneEnemy:No:0
+Poison Tail Poison:50:100:25:OneEnemy:Yes:0
+Poisonpowder Poison:N/A:75:35:OneEnemy:No:1
+Pound Normal:40:100:35:OneEnemy:Yes:0
+Powder Snow Ice:40:100:25:BothEnemy:No:0
+Present Normal:N/A:90:15:OneEnemy:No:0
+Protect Normal:N/A:N/A:10:Self:No:1
+Psybeam Psychic:65:100:20:OneEnemy:No:0
+Psych Up Normal:N/A:N/A:10:OneEnemy:No:1
+Psychic Psychic:90:100:10:OneEnemy:No:0
+Psycho Boost Psychic:140:90:5:OneEnemy:No:0
+Psywave Psychic:N/A:80:15:OneEnemy:No:0
+Pursuit Dark:40:100:20:OneEnemy:Yes:0
+Quick Attack Normal:40:100:30:OneEnemy:Yes:0
+Rage Normal:20:100:20:OneEnemy:Yes:0
+Rain Dance Water:N/A:N/A:5:Self:No:1
+Rapid Spin Normal:20:100:40:OneEnemy:Yes:0
+Razor Leaf Grass:55:95:25:BothEnemy:No:0
+Razor Wind Normal:80:100:10:BothEnemy:No:0
+Recover Normal:N/A:N/A:20:Self:No:1
+Recycle Normal:N/A:N/A:10:Self:No:1
+Reflect Psychic:N/A:N/A:20:Self:No:1
+Refresh Normal:N/A:N/A:20:Self:No:1
+Rest Psychic:N/A:N/A:10:Self:No:1
+Return Normal:N/A:100:20:OneEnemy:Yes:0
+Revenge Fighting:60:100:10:OneEnemy:Yes:0
+Reversal Fighting:N/A:100:15:OneEnemy:Yes:0
+Roar Normal:N/A:100:20:OneEnemy:No:1
+Rock Blast Rock:25:80:10:OneEnemy:No:0
+Rock Slide Rock:75:90:10:BothEnemy:No:0
+Rock Smash Fighting:20:100:15:OneEnemy:Yes:0
+Rock Throw Rock:50:90:15:OneEnemy:No:0
+Rock Tomb Rock:50:80:10:OneEnemy:No:0
+Role Play Psychic:N/A:100:10:OneEnemy:No:1
+Rolling Kick Fighting:60:85:15:OneEnemy:Yes:0
+Rollout Rock:30:90:20:OneEnemy:Yes:0
+Safeguard Normal:N/A:N/A:25:Self:No:1
+Sacred Fire Fire:100:95:5:OneEnemy:Yes:0
+Sand Tomb Ground:15:70:15:OneEnemy:No:0
+Sand-Attack Ground:N/A:100:15:OneEnemy:No:1
+Sandstorm Rock:N/A:N/A:10:Self:No:1
+Scary Face Normal:N/A:90:10:OneEnemy:No:1
+Scratch Normal:40:100:35:OneEnemy:Yes:0
+Screech Normal:N/A:85:40:OneEnemy:No:1
+Secret Power Normal:70:100:20:OneEnemy:No:0
+Seismic Toss Fighting:N/A:100:20:OneEnemy:Yes:0
+Selfdestruct Normal:200:100:5:All:No:0
+Shadow Ball Ghost:80:100:15:OneEnemy:No:0
+Shadow Punch Ghost:60:N/A:20:OneEnemy:Yes:0
+Sharpen Normal:N/A:N/A:30:Self:No:1
+Sheer Cold Ice:N/A:30:5:OneEnemy:No:0
+Shock Wave Electric:60:N/A:20:OneEnemy:No:0
+Signal Beam Bug:75:100:15:OneEnemy:No:0
+Silver Wind Bug:60:100:5:OneEnemy:No:0
+Sing Normal:N/A:55:15:OneEnemy:No:1
+Sketch Normal:N/A:N/A:5:OneEnemy:No:1
+Skill Swap Psychic:N/A:100:10:OneEnemy:No:1
+Skull Bash Normal:100:100:15:OneEnemy:Yes:0
+Sky Attack Flying:140:90:5:OneEnemy:No:0
+Sky Uppercut Fighting:85:90:15:OneEnemy:Yes:0
+Slack Off Normal:N/A:100:10:Self:No:1
+Slam Normal:80:75:20:OneEnemy:Yes:0
+Slash Normal:70:100:20:OneEnemy:Yes:0
+Sleep Powder Grass:N/A:75:15:OneEnemy:No:1
+Sleep Talk Normal:N/A:N/A:10:N/A:No:1
+Sludge Poison:65:100:20:OneEnemy:No:0
+Sludge Bomb Poison:90:100:10:OneEnemy:No:0
+Smellingsalt Normal:60:100:10:OneEnemy:Yes:0
+Smog Poison:20:70:20:OneEnemy:No:0
+Smokescreen Normal:N/A:100:20:OneEnemy:No:1
+Snatch Dark:N/A:100:10:N/A:No:1
+Snore Normal:40:100:15:OneEnemy:No:0
+Softboiled Normal:N/A:100:10:Self:No:1
+Solarbeam Grass:120:100:10:OneEnemy:No:0
+Sonicboom Normal:N/A:90:20:OneEnemy:No:0
+Spark Electric:65:100:20:OneEnemy:Yes:0
+Spider Web Bug:N/A:100:10:OneEnemy:No:1
+Spike Cannon Normal:20:100:15:OneEnemy:No:0
+Spikes Ground:N/A:N/A:20:RandomEnemy:No:1
+Spit Up Normal:100:100:10:OneEnemy:No:0
+Spite Ghost:N/A:100:10:OneEnemy:No:1
+Splash Normal:N/A:N/A:40:Self:No:1
+Spore Grass:N/A:100:15:OneEnemy:No:1
+Steel Wing Steel:70:90:25:OneEnemy:Yes:0
+Stockpile Normal:N/A:N/A:10:Self:No:1
+Stomp Normal:65:100:20:OneEnemy:Yes:0
+Strength Normal:80:100:15:OneEnemy:Yes:0
+String Shot Bug:N/A:95:40:BothEnemy:No:1
+Struggle Normal:50:100:N/A:RandomEnemy:Yes:0
+Stun Spore Grass:N/A:75:30:OneEnemy:No:1
+Submission Fighting:80:80:25:OneEnemy:Yes:0
+Substitute Normal:N/A:N/A:10:Self:No:1
+Sunny Day Fire:N/A:N/A:5:Self:No:1
+Super Fang Normal:N/A:90:10:OneEnemy:Yes:0
+Superpower Fighting:120:100:5:OneEnemy:Yes:0
+Supersonic Normal:N/A:55:20:OneEnemy:No:1
+Surf Water:95:100:15:BothEnemy:No:0
+Swagger Normal:N/A:90:15:OneEnemy:No:1
+Swallow Normal:N/A:N/A:10:Self:No:1
+Sweet Kiss Normal:N/A:75:10:OneEnemy:No:1
+Sweet Scent Normal:N/A:100:20:BothEnemy:No:1
+Swift Normal:60:N/A:20:BothEnemy:No:0
+Swords Dance Normal:N/A:N/A:30:Self:No:1
+Synthesis Grass:N/A:N/A:5:Self:No:1
+Tackle Normal:35:95:35:OneEnemy:Yes:0
+Tail Glow Bug:N/A:N/A:20:Self:No:1
+Tail Whip Normal:N/A:100:30:BothEnemy:No:1
+Take Down Normal:90:85:20:OneEnemy:Yes:0
+Taunt Dark:N/A:100:20:OneEnemy:No:1
+Teeter Dance Normal:N/A:100:20:All:No:1
+Teleport Psychic:N/A:N/A:20:Self:No:1
+Thief Dark:40:100:10:OneEnemy:Yes:0
+Thrash Normal:90:100:20:OneEnemy:Yes:0
+Thunder Electric:120:70:10:OneEnemy:No:0
+Thunder Wave Electric:N/A:100:20:OneEnemy:No:1
+Thunderbolt Electric:95:100:15:OneEnemy:No:0
+Thunderpunch Electric:75:100:15:OneEnemy:Yes:0
+Thundershock Electric:40:100:30:OneEnemy:No:0
+Tickle Normal:N/A:100:20:OneEnemy:Yes:1
+Torment Dark:N/A:100:15:OneEnemy:No:1
+Toxic Poison:N/A:85:10:OneEnemy:No:1
+Transform Normal:N/A:N/A:10:OneEnemy:No:1
+Tri Attack Normal:80:100:10:OneEnemy:No:0
+Trick Psychic:N/A:100:10:OneEnemy:No:1
+Triple Kick Fighting:10:90:10:OneEnemy:Yes:0
+Twineedle Bug:25:100:20:OneEnemy:No:0
+Twister Dragon:40:100:20:BothEnemy:No:0
+Uproar Normal:50:100:10:RandomEnemy:No:0
+Vicegrip Normal:55:100:30:OneEnemy:Yes:0
+Vine Whip Grass:35:100:10:OneEnemy:Yes:0
+Vital Throw Fighting:70:100:10:OneEnemy:Yes:0
+Volt Tackle Electric:120:100:15:OneEnemy:Yes:0
+Water Gun Water:40:100:25:OneEnemy:No:0
+Water Pulse Water:60:100:20:OneEnemy:No:0
+Water Sport Water:N/A:N/A:15:Self:No:1
+Water Spout Water:150:100:5:BothEnemy:No:0
+Waterfall Water:80:100:15:OneEnemy:Yes:0
+Weather Ball Normal:50:100:10:OneEnemy:No:0
+Whirlpool Water:15:70:15:OneEnemy:No:0
+Whirlwind Normal:N/A:100:20:OneEnemy:No:1
+Will-O-Wisp Fire:N/A:75:15:OneEnemy:No:1
+Wing Attack Flying:60:100:35:OneEnemy:Yes:0
+Wish Normal:N/A:N/A:10:Self:No:1
+Withdraw Water:N/A:N/A:40:Self:No:1
+Wrap Normal:15:85:20:OneEnemy:Yes:0
+Yawn Normal:N/A:100:10:OneEnemy:No:1
+Zap Cannon Electric:100:50:5:OneEnemy:No:0

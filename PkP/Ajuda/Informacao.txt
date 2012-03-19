@@ -1,0 +1,8 @@
+$cc $+ $arrange(.Dados <Pokémon/Nick> (<Pokémon>),160,%spc) $ct $+ - Visualiza as suas informações ou de outros usuários;
+$cc $+ $arrange(.Milhagem,160,%spc) $ct $+ - Saiba como fazer bom uso de suas PokéMilhas;
+$cc $+ $arrange(.Pontos (<Nick>),160,%spc) $ct $+ - Verifica a sua pontuação ou a de um determinado treinador;
+$cc $+ $arrange(.Users,160,%spc) $ct $+ - Lista os usuários conectados ou que estão se conectando ao bot;
+$cc $+ $arrange(.Top (<posição>),160,%spc) $ct $+ - Lista os trinta melhores treinadores do canal ou as posições desejadas;
+$cc $+ $arrange(.Report <Mensagem>,160,%spc) $ct $+ - Reporta $cc $+ bugs $ct $+ ou $cc $+ violações de regras $ct $+ para o administrador;
+$cc $+ $arrange(.Rental,160,%spc) $ct $+ - Inicia o desafio Rental Battle;
+$cc $+ $arrange(.Ajuda,160,%spc) $ct $+ - Exibe novamente esta relação de comandos do bot;

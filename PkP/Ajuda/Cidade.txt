@@ -1,0 +1,6 @@
+$cc $+ $arrange(.Cidade,160,%spc) $ct $+ - Exibe todas as opções disponíveis para a cidade atual;
+$cc $+ $arrange(.Loja,160,%spc) $ct $+ - Referente à compra e venda de itens para treinadores;
+$cc $+ $arrange(.Market,160,%spc) $ct $+ - Referente à compra e venda de pokémon entre treinadores;
+$cc $+ $arrange(.Daycare,160,%spc) $ct $+ - Referente ao cruzamento de pokémon do time ou de treinadores;
+$cc $+ $arrange(.Fly (<localização>),160,%spc) $ct $+ - Referente ao deslocamento usando a técnica Fly;
+$cc $+ $arrange(.Map,160,%spc) $ct $+ - Visualiza o mapa da região e localização;

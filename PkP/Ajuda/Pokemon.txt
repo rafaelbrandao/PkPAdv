@@ -1,0 +1,5 @@
+$cc $+ $arrange(.MoveSet <Pokémon> <Slot> <Golpe>,160,%spc) $ct $+ - Ensina um novo golpe a um pokemon no slot selecionado;
+$cc $+ $arrange(.Evoluir <Pokémon> (<Evolução>),160,%spc) $ct $+ - Para evoluir seu pokémon na evolução selecionada;
+$cc $+ $arrange(.Ordem <Pokémon¹> <Pokémon²>,160,%spc) $ct $+ - Troca a ordem dos pokémon no time;
+$cc $+ $arrange(.Trade,160,%spc) $ct $+ - Relacionado à troca de pokémon entre treinadores;
+$cc $+ $arrange(.Ribbon <Pokémon>,160,%spc) $ct $+ - Visualiza as medalhas de um pokémon selecionado;
