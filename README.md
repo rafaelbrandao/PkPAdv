@@ -21,6 +21,14 @@ around the map and interact with the game in a whole new way, similar to the ori
 have enough knowledge of programming back there, so it was a failure and I couldn't keep it up, and also realized that IRC Scripting was not good for
 multiple tasks at the same time, so I had to leave it anyway.
 
+These are some screenshtos of what this game almost became:
+
+.. image:: ./ss01.jpg
+
+.. image:: ./ss02.jpg
+
+.. image:: ./ss03.png
+
 What's next?
 ------------
 
@@ -34,4 +42,8 @@ Special thanks
 * Lit0 - Best player of PkPAdv. He managed to become pokemon master and caught almost all pokemon. Congratulations!
 
 And to everyone else that was part of this project somehow! Thanks!
+
+
+---
+Rafael Brandao (a.k.a. Architect)
 
